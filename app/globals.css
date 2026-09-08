@@ -149,3 +149,6 @@ footer button{font-size:11px}
  footer button{font-size:11px}
 }
 @media(max-width:370px){.topbar{padding-inline:14px}.brand-wordmark{width:95px}.stage-bottom{left:14px}.parts-stat{gap:6px}.parts-stat>b{font-size:21px}.view-controls button{padding-inline:6px}.inspector{padding-inline:14px}}
+
+/* Keep the requested attribution visible on mobile as well as desktop. */
+@media(max-width:760px){footer>span:nth-child(2){display:block;order:3;flex-basis:100%;line-height:1.35}}
