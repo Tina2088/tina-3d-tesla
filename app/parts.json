@@ -1,0 +1,7545 @@
+[
+  {
+    "id": "MY-001",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "02_metal_0",
+    "material": "metal",
+    "center": [
+      1.416,
+      0.39115,
+      -0.88456
+    ],
+    "size": [
+      0.06911,
+      0.01098,
+      0.00512
+    ],
+    "triangles": 424
+  },
+  {
+    "id": "MY-002",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "02_metal_0",
+    "material": "metal",
+    "center": [
+      1.416,
+      0.35904,
+      -0.88503
+    ],
+    "size": [
+      0.06303,
+      0.06138,
+      0.00553
+    ],
+    "triangles": 560
+  },
+  {
+    "id": "MY-003",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "03_metal_0",
+    "material": "metal",
+    "center": [
+      1.416,
+      0.39115,
+      0.88456
+    ],
+    "size": [
+      0.06911,
+      0.01098,
+      0.00512
+    ],
+    "triangles": 424
+  },
+  {
+    "id": "MY-004",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "03_metal_0",
+    "material": "metal",
+    "center": [
+      1.416,
+      0.35904,
+      0.88503
+    ],
+    "size": [
+      0.06303,
+      0.06138,
+      0.00553
+    ],
+    "triangles": 560
+  },
+  {
+    "id": "MY-005",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "04_alum_0",
+    "material": "alum",
+    "center": [
+      1.416,
+      0.36889,
+      0.87369
+    ],
+    "size": [
+      0.08644,
+      0.08644,
+      0.02609
+    ],
+    "triangles": 598
+  },
+  {
+    "id": "MY-006",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "05_alum_0",
+    "material": "alum",
+    "center": [
+      1.416,
+      0.36889,
+      -0.87369
+    ],
+    "size": [
+      0.08644,
+      0.08644,
+      0.02609
+    ],
+    "triangles": 598
+  },
+  {
+    "id": "MY-007",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "08_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      -1.3107,
+      0.38578,
+      -0.8092
+    ],
+    "size": [
+      0.11919,
+      0.23639,
+      0.00802
+    ],
+    "triangles": 240
+  },
+  {
+    "id": "MY-008",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "08_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      -1.3107,
+      0.38578,
+      -0.75354
+    ],
+    "size": [
+      0.11919,
+      0.23639,
+      0.00802
+    ],
+    "triangles": 240
+  },
+  {
+    "id": "MY-009",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "08_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      -1.25293,
+      0.39392,
+      -0.78345
+    ],
+    "size": [
+      0.01086,
+      0.04088,
+      0.1273
+    ],
+    "triangles": 780
+  },
+  {
+    "id": "MY-010",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "09_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      -1.3107,
+      0.38578,
+      0.75354
+    ],
+    "size": [
+      0.11919,
+      0.23639,
+      0.00802
+    ],
+    "triangles": 240
+  },
+  {
+    "id": "MY-011",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "09_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      -1.3107,
+      0.38578,
+      0.8092
+    ],
+    "size": [
+      0.11919,
+      0.23639,
+      0.00802
+    ],
+    "triangles": 240
+  },
+  {
+    "id": "MY-012",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "09_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      -1.25293,
+      0.39392,
+      0.78345
+    ],
+    "size": [
+      0.01086,
+      0.04088,
+      0.1273
+    ],
+    "triangles": 780
+  },
+  {
+    "id": "MY-013",
+    "category": "wheels",
+    "zh": "制动盘构件",
+    "en": "Brake disc",
+    "source": "10_brakedsk_0",
+    "material": "brakedsk",
+    "center": [
+      -1.4522,
+      0.36889,
+      -0.67949
+    ],
+    "size": [
+      0.45182,
+      0.42592,
+      0.06382
+    ],
+    "triangles": 360
+  },
+  {
+    "id": "MY-014",
+    "category": "wheels",
+    "zh": "制动盘构件",
+    "en": "Brake disc",
+    "source": "10_brakedsk_0",
+    "material": "brakedsk",
+    "center": [
+      -1.46522,
+      0.36889,
+      -0.81932
+    ],
+    "size": [
+      0.27701,
+      0.27694,
+      0.03906
+    ],
+    "triangles": 252
+  },
+  {
+    "id": "MY-015",
+    "category": "wheels",
+    "zh": "制动盘构件",
+    "en": "Brake disc",
+    "source": "10_brakedsk_0",
+    "material": "brakedsk",
+    "center": [
+      -1.46511,
+      0.36889,
+      -0.71425
+    ],
+    "size": [
+      0.21145,
+      0.21036,
+      0.09876
+    ],
+    "triangles": 54
+  },
+  {
+    "id": "MY-016",
+    "category": "wheels",
+    "zh": "制动盘构件",
+    "en": "Brake disc",
+    "source": "11_brakedsk_0",
+    "material": "brakedsk",
+    "center": [
+      -1.4522,
+      0.36889,
+      0.67949
+    ],
+    "size": [
+      0.45182,
+      0.42592,
+      0.06382
+    ],
+    "triangles": 360
+  },
+  {
+    "id": "MY-017",
+    "category": "wheels",
+    "zh": "制动盘构件",
+    "en": "Brake disc",
+    "source": "11_brakedsk_0",
+    "material": "brakedsk",
+    "center": [
+      -1.46522,
+      0.36889,
+      0.81932
+    ],
+    "size": [
+      0.27701,
+      0.27694,
+      0.03906
+    ],
+    "triangles": 252
+  },
+  {
+    "id": "MY-018",
+    "category": "wheels",
+    "zh": "制动盘构件",
+    "en": "Brake disc",
+    "source": "11_brakedsk_0",
+    "material": "brakedsk",
+    "center": [
+      -1.46511,
+      0.36889,
+      0.71425
+    ],
+    "size": [
+      0.21145,
+      0.21036,
+      0.09876
+    ],
+    "triangles": 54
+  },
+  {
+    "id": "MY-019",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "14_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      1.54608,
+      0.39912,
+      0.77131
+    ],
+    "size": [
+      0.10482,
+      0.17426,
+      0.00672
+    ],
+    "triangles": 248
+  },
+  {
+    "id": "MY-020",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "14_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      1.54608,
+      0.39912,
+      0.81801
+    ],
+    "size": [
+      0.10482,
+      0.17426,
+      0.00672
+    ],
+    "triangles": 248
+  },
+  {
+    "id": "MY-021",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "14_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      1.5862,
+      0.46399,
+      0.83793
+    ],
+    "size": [
+      0.00967,
+      0.00962,
+      0.00114
+    ],
+    "triangles": 144
+  },
+  {
+    "id": "MY-022",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "14_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      1.60484,
+      0.4436,
+      0.83793
+    ],
+    "size": [
+      0.00967,
+      0.0097,
+      0.00114
+    ],
+    "triangles": 144
+  },
+  {
+    "id": "MY-023",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "14_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      1.61072,
+      0.36107,
+      0.83793
+    ],
+    "size": [
+      0.00967,
+      0.00962,
+      0.00114
+    ],
+    "triangles": 148
+  },
+  {
+    "id": "MY-024",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "14_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      1.61817,
+      0.38767,
+      0.83793
+    ],
+    "size": [
+      0.00967,
+      0.0097,
+      0.00114
+    ],
+    "triangles": 144
+  },
+  {
+    "id": "MY-025",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "15_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      1.54608,
+      0.39912,
+      -0.81801
+    ],
+    "size": [
+      0.10482,
+      0.17426,
+      0.00672
+    ],
+    "triangles": 248
+  },
+  {
+    "id": "MY-026",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "15_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      1.54608,
+      0.39912,
+      -0.7713
+    ],
+    "size": [
+      0.10482,
+      0.17426,
+      0.00672
+    ],
+    "triangles": 248
+  },
+  {
+    "id": "MY-027",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "15_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      1.5862,
+      0.46399,
+      -0.83793
+    ],
+    "size": [
+      0.00967,
+      0.00962,
+      0.00114
+    ],
+    "triangles": 144
+  },
+  {
+    "id": "MY-028",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "15_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      1.60484,
+      0.4436,
+      -0.83793
+    ],
+    "size": [
+      0.00967,
+      0.0097,
+      0.00114
+    ],
+    "triangles": 144
+  },
+  {
+    "id": "MY-029",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "15_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      1.61072,
+      0.36107,
+      -0.83793
+    ],
+    "size": [
+      0.00967,
+      0.00962,
+      0.00114
+    ],
+    "triangles": 148
+  },
+  {
+    "id": "MY-030",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "15_calipers2_0",
+    "material": "calipers2",
+    "center": [
+      1.61817,
+      0.38767,
+      -0.83793
+    ],
+    "size": [
+      0.00967,
+      0.0097,
+      0.00114
+    ],
+    "triangles": 148
+  },
+  {
+    "id": "MY-031",
+    "category": "wheels",
+    "zh": "制动盘构件",
+    "en": "Brake disc",
+    "source": "16_brakedsk_0",
+    "material": "brakedsk",
+    "center": [
+      1.42772,
+      0.3693,
+      0.72792
+    ],
+    "size": [
+      0.41686,
+      0.39409,
+      0.05566
+    ],
+    "triangles": 360
+  },
+  {
+    "id": "MY-032",
+    "category": "wheels",
+    "zh": "制动盘构件",
+    "en": "Brake disc",
+    "source": "16_brakedsk_0",
+    "material": "brakedsk",
+    "center": [
+      1.41601,
+      0.36892,
+      0.82965
+    ],
+    "size": [
+      0.23419,
+      0.2343,
+      0.04239
+    ],
+    "triangles": 252
+  },
+  {
+    "id": "MY-033",
+    "category": "wheels",
+    "zh": "制动盘构件",
+    "en": "Brake disc",
+    "source": "16_brakedsk_0",
+    "material": "brakedsk",
+    "center": [
+      1.41591,
+      0.36901,
+      0.743
+    ],
+    "size": [
+      0.19529,
+      0.19445,
+      0.0861
+    ],
+    "triangles": 54
+  },
+  {
+    "id": "MY-034",
+    "category": "wheels",
+    "zh": "制动盘构件",
+    "en": "Brake disc",
+    "source": "17_brakedsk_0",
+    "material": "brakedsk",
+    "center": [
+      1.42772,
+      0.3693,
+      -0.72792
+    ],
+    "size": [
+      0.41686,
+      0.39409,
+      0.05566
+    ],
+    "triangles": 360
+  },
+  {
+    "id": "MY-035",
+    "category": "wheels",
+    "zh": "制动盘构件",
+    "en": "Brake disc",
+    "source": "17_brakedsk_0",
+    "material": "brakedsk",
+    "center": [
+      1.41601,
+      0.36892,
+      -0.82965
+    ],
+    "size": [
+      0.23419,
+      0.2343,
+      0.04239
+    ],
+    "triangles": 252
+  },
+  {
+    "id": "MY-036",
+    "category": "wheels",
+    "zh": "制动盘构件",
+    "en": "Brake disc",
+    "source": "17_brakedsk_0",
+    "material": "brakedsk",
+    "center": [
+      1.41591,
+      0.36901,
+      -0.743
+    ],
+    "size": [
+      0.19529,
+      0.19445,
+      0.0861
+    ],
+    "triangles": 54
+  },
+  {
+    "id": "MY-037",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.58449,
+      0.3689,
+      -0.81005
+    ],
+    "size": [
+      0.01592,
+      0.03918,
+      0.00968
+    ],
+    "triangles": 52
+  },
+  {
+    "id": "MY-038",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.58442,
+      0.34657,
+      -0.80591
+    ],
+    "size": [
+      0.01057,
+      0.00647,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-039",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.58442,
+      0.39122,
+      -0.80591
+    ],
+    "size": [
+      0.01057,
+      0.00647,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-040",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.58449,
+      0.3689,
+      -0.80179
+    ],
+    "size": [
+      0.00995,
+      0.01008,
+      0.02857
+    ],
+    "triangles": 36
+  },
+  {
+    "id": "MY-041",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.57335,
+      0.3689,
+      -0.80593
+    ],
+    "size": [
+      0.00684,
+      0.01853,
+      0.00144
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-042",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.5649,
+      0.29992,
+      -0.80591
+    ],
+    "size": [
+      0.01082,
+      0.01095,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-043",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.5649,
+      0.43787,
+      -0.80591
+    ],
+    "size": [
+      0.01082,
+      0.01095,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-044",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.54953,
+      0.2845,
+      -0.81005
+    ],
+    "size": [
+      0.03806,
+      0.03806,
+      0.00968
+    ],
+    "triangles": 52
+  },
+  {
+    "id": "MY-045",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.54953,
+      0.45329,
+      -0.81005
+    ],
+    "size": [
+      0.03806,
+      0.03806,
+      0.00968
+    ],
+    "triangles": 52
+  },
+  {
+    "id": "MY-046",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.54953,
+      0.2845,
+      -0.80179
+    ],
+    "size": [
+      0.0097,
+      0.0097,
+      0.02857
+    ],
+    "triangles": 36
+  },
+  {
+    "id": "MY-047",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.54953,
+      0.45329,
+      -0.80179
+    ],
+    "size": [
+      0.0097,
+      0.0097,
+      0.02857
+    ],
+    "triangles": 36
+  },
+  {
+    "id": "MY-048",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.54226,
+      0.29178,
+      -0.80593
+    ],
+    "size": [
+      0.01654,
+      0.01654,
+      0.00144
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-049",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.54226,
+      0.44601,
+      -0.80593
+    ],
+    "size": [
+      0.01654,
+      0.01654,
+      0.00144
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-050",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.53411,
+      0.26914,
+      -0.80591
+    ],
+    "size": [
+      0.01095,
+      0.01082,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-051",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.53411,
+      0.46865,
+      -0.80591
+    ],
+    "size": [
+      0.01095,
+      0.01082,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-052",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.48747,
+      0.24961,
+      -0.80591
+    ],
+    "size": [
+      0.00647,
+      0.01057,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-053",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.48747,
+      0.48818,
+      -0.80591
+    ],
+    "size": [
+      0.00647,
+      0.01057,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-054",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.46514,
+      0.24955,
+      -0.81005
+    ],
+    "size": [
+      0.03918,
+      0.01592,
+      0.00968
+    ],
+    "triangles": 52
+  },
+  {
+    "id": "MY-055",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.46514,
+      0.48824,
+      -0.81005
+    ],
+    "size": [
+      0.03918,
+      0.01592,
+      0.00968
+    ],
+    "triangles": 52
+  },
+  {
+    "id": "MY-056",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.46514,
+      0.26068,
+      -0.80593
+    ],
+    "size": [
+      0.01853,
+      0.00684,
+      0.00144
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-057",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.46514,
+      0.47711,
+      -0.80593
+    ],
+    "size": [
+      0.01853,
+      0.00684,
+      0.00144
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-058",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.46514,
+      0.24955,
+      -0.80179
+    ],
+    "size": [
+      0.01008,
+      0.00995,
+      0.02857
+    ],
+    "triangles": 36
+  },
+  {
+    "id": "MY-059",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.46514,
+      0.48824,
+      -0.80179
+    ],
+    "size": [
+      0.01008,
+      0.00995,
+      0.02857
+    ],
+    "triangles": 36
+  },
+  {
+    "id": "MY-060",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.44281,
+      0.24961,
+      -0.80591
+    ],
+    "size": [
+      0.00647,
+      0.01057,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-061",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.44281,
+      0.48818,
+      -0.80591
+    ],
+    "size": [
+      0.00647,
+      0.01057,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-062",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.39617,
+      0.26914,
+      -0.80591
+    ],
+    "size": [
+      0.01095,
+      0.01082,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-063",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.39617,
+      0.46865,
+      -0.80591
+    ],
+    "size": [
+      0.01095,
+      0.01082,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-064",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.38074,
+      0.2845,
+      -0.81005
+    ],
+    "size": [
+      0.03806,
+      0.03806,
+      0.00968
+    ],
+    "triangles": 52
+  },
+  {
+    "id": "MY-065",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.38074,
+      0.45329,
+      -0.81005
+    ],
+    "size": [
+      0.03806,
+      0.03806,
+      0.00968
+    ],
+    "triangles": 52
+  },
+  {
+    "id": "MY-066",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.38802,
+      0.29178,
+      -0.80593
+    ],
+    "size": [
+      0.01654,
+      0.01654,
+      0.00144
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-067",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.38802,
+      0.44601,
+      -0.80593
+    ],
+    "size": [
+      0.01654,
+      0.01654,
+      0.00144
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-068",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.38074,
+      0.2845,
+      -0.80179
+    ],
+    "size": [
+      0.0097,
+      0.0097,
+      0.02857
+    ],
+    "triangles": 36
+  },
+  {
+    "id": "MY-069",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.38074,
+      0.45329,
+      -0.80179
+    ],
+    "size": [
+      0.0097,
+      0.0097,
+      0.02857
+    ],
+    "triangles": 36
+  },
+  {
+    "id": "MY-070",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.36538,
+      0.29992,
+      -0.80591
+    ],
+    "size": [
+      0.01082,
+      0.01095,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-071",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.36538,
+      0.43787,
+      -0.80591
+    ],
+    "size": [
+      0.01082,
+      0.01095,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-072",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.35692,
+      0.3689,
+      -0.80593
+    ],
+    "size": [
+      0.00684,
+      0.01853,
+      0.00144
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-073",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.34579,
+      0.3689,
+      -0.81005
+    ],
+    "size": [
+      0.01592,
+      0.03918,
+      0.00968
+    ],
+    "triangles": 52
+  },
+  {
+    "id": "MY-074",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.34585,
+      0.34657,
+      -0.80591
+    ],
+    "size": [
+      0.01057,
+      0.00647,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-075",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.34585,
+      0.39122,
+      -0.80591
+    ],
+    "size": [
+      0.01057,
+      0.00647,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-076",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.34579,
+      0.3689,
+      -0.80179
+    ],
+    "size": [
+      0.00995,
+      0.01008,
+      0.02857
+    ],
+    "triangles": 36
+  },
+  {
+    "id": "MY-077",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "18_alum_0",
+    "material": "alum",
+    "center": [
+      -1.46514,
+      0.3689,
+      -0.81716
+    ],
+    "size": [
+      0.24665,
+      0.24665,
+      0.00222
+    ],
+    "triangles": 144
+  },
+  {
+    "id": "MY-078",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.58449,
+      0.3689,
+      0.81005
+    ],
+    "size": [
+      0.01592,
+      0.03918,
+      0.00968
+    ],
+    "triangles": 52
+  },
+  {
+    "id": "MY-079",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.58442,
+      0.34657,
+      0.80591
+    ],
+    "size": [
+      0.01057,
+      0.00647,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-080",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.58442,
+      0.39122,
+      0.80591
+    ],
+    "size": [
+      0.01057,
+      0.00647,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-081",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.58449,
+      0.3689,
+      0.80179
+    ],
+    "size": [
+      0.00995,
+      0.01008,
+      0.02857
+    ],
+    "triangles": 36
+  },
+  {
+    "id": "MY-082",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.57335,
+      0.3689,
+      0.80593
+    ],
+    "size": [
+      0.00684,
+      0.01853,
+      0.00144
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-083",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.5649,
+      0.29992,
+      0.80591
+    ],
+    "size": [
+      0.01082,
+      0.01095,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-084",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.5649,
+      0.43787,
+      0.80591
+    ],
+    "size": [
+      0.01082,
+      0.01095,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-085",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.54953,
+      0.2845,
+      0.81005
+    ],
+    "size": [
+      0.03806,
+      0.03806,
+      0.00968
+    ],
+    "triangles": 52
+  },
+  {
+    "id": "MY-086",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.54953,
+      0.45329,
+      0.81005
+    ],
+    "size": [
+      0.03806,
+      0.03806,
+      0.00968
+    ],
+    "triangles": 52
+  },
+  {
+    "id": "MY-087",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.54953,
+      0.2845,
+      0.80179
+    ],
+    "size": [
+      0.0097,
+      0.0097,
+      0.02857
+    ],
+    "triangles": 36
+  },
+  {
+    "id": "MY-088",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.54953,
+      0.45329,
+      0.80179
+    ],
+    "size": [
+      0.0097,
+      0.0097,
+      0.02857
+    ],
+    "triangles": 36
+  },
+  {
+    "id": "MY-089",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.54226,
+      0.29178,
+      0.80593
+    ],
+    "size": [
+      0.01654,
+      0.01654,
+      0.00144
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-090",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.54226,
+      0.44601,
+      0.80593
+    ],
+    "size": [
+      0.01654,
+      0.01654,
+      0.00144
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-091",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.53411,
+      0.26914,
+      0.80591
+    ],
+    "size": [
+      0.01095,
+      0.01082,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-092",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.53411,
+      0.46865,
+      0.80591
+    ],
+    "size": [
+      0.01095,
+      0.01082,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-093",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.48747,
+      0.24961,
+      0.80591
+    ],
+    "size": [
+      0.00647,
+      0.01057,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-094",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.48747,
+      0.48818,
+      0.80591
+    ],
+    "size": [
+      0.00647,
+      0.01057,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-095",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.46514,
+      0.24955,
+      0.81005
+    ],
+    "size": [
+      0.03918,
+      0.01592,
+      0.00968
+    ],
+    "triangles": 52
+  },
+  {
+    "id": "MY-096",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.46514,
+      0.48824,
+      0.81005
+    ],
+    "size": [
+      0.03918,
+      0.01592,
+      0.00968
+    ],
+    "triangles": 52
+  },
+  {
+    "id": "MY-097",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.46514,
+      0.26068,
+      0.80593
+    ],
+    "size": [
+      0.01853,
+      0.00684,
+      0.00144
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-098",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.46514,
+      0.47711,
+      0.80593
+    ],
+    "size": [
+      0.01853,
+      0.00684,
+      0.00144
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-099",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.46514,
+      0.24955,
+      0.80179
+    ],
+    "size": [
+      0.01008,
+      0.00995,
+      0.02857
+    ],
+    "triangles": 36
+  },
+  {
+    "id": "MY-100",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.46514,
+      0.48824,
+      0.80179
+    ],
+    "size": [
+      0.01008,
+      0.00995,
+      0.02857
+    ],
+    "triangles": 36
+  },
+  {
+    "id": "MY-101",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.44281,
+      0.24961,
+      0.80591
+    ],
+    "size": [
+      0.00647,
+      0.01057,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-102",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.44281,
+      0.48818,
+      0.80591
+    ],
+    "size": [
+      0.00647,
+      0.01057,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-103",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.39617,
+      0.26914,
+      0.80591
+    ],
+    "size": [
+      0.01095,
+      0.01082,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-104",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.39617,
+      0.46865,
+      0.80591
+    ],
+    "size": [
+      0.01095,
+      0.01082,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-105",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.38074,
+      0.2845,
+      0.81005
+    ],
+    "size": [
+      0.03806,
+      0.03806,
+      0.00968
+    ],
+    "triangles": 52
+  },
+  {
+    "id": "MY-106",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.38074,
+      0.45329,
+      0.81005
+    ],
+    "size": [
+      0.03806,
+      0.03806,
+      0.00968
+    ],
+    "triangles": 52
+  },
+  {
+    "id": "MY-107",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.38802,
+      0.29178,
+      0.80593
+    ],
+    "size": [
+      0.01654,
+      0.01654,
+      0.00144
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-108",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.38802,
+      0.44601,
+      0.80593
+    ],
+    "size": [
+      0.01654,
+      0.01654,
+      0.00144
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-109",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.38074,
+      0.2845,
+      0.80179
+    ],
+    "size": [
+      0.0097,
+      0.0097,
+      0.02857
+    ],
+    "triangles": 36
+  },
+  {
+    "id": "MY-110",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.38074,
+      0.45329,
+      0.80179
+    ],
+    "size": [
+      0.0097,
+      0.0097,
+      0.02857
+    ],
+    "triangles": 36
+  },
+  {
+    "id": "MY-111",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.36538,
+      0.29992,
+      0.80591
+    ],
+    "size": [
+      0.01082,
+      0.01095,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-112",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.36538,
+      0.43787,
+      0.80591
+    ],
+    "size": [
+      0.01082,
+      0.01095,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-113",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.35692,
+      0.3689,
+      0.80593
+    ],
+    "size": [
+      0.00684,
+      0.01853,
+      0.00144
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-114",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.34579,
+      0.3689,
+      0.81005
+    ],
+    "size": [
+      0.01592,
+      0.03918,
+      0.00968
+    ],
+    "triangles": 52
+  },
+  {
+    "id": "MY-115",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.34585,
+      0.34657,
+      0.80591
+    ],
+    "size": [
+      0.01057,
+      0.00647,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-116",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.34585,
+      0.39122,
+      0.80591
+    ],
+    "size": [
+      0.01057,
+      0.00647,
+      0.0014
+    ],
+    "triangles": 8
+  },
+  {
+    "id": "MY-117",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.34579,
+      0.3689,
+      0.80179
+    ],
+    "size": [
+      0.00995,
+      0.01008,
+      0.02857
+    ],
+    "triangles": 36
+  },
+  {
+    "id": "MY-118",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "19_alum_0",
+    "material": "alum",
+    "center": [
+      -1.46514,
+      0.3689,
+      0.81716
+    ],
+    "size": [
+      0.24665,
+      0.24665,
+      0.00222
+    ],
+    "triangles": 144
+  },
+  {
+    "id": "MY-119",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "22_metal_0",
+    "material": "metal",
+    "center": [
+      -1.46518,
+      0.39115,
+      -0.88456
+    ],
+    "size": [
+      0.06911,
+      0.01098,
+      0.00512
+    ],
+    "triangles": 424
+  },
+  {
+    "id": "MY-120",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "22_metal_0",
+    "material": "metal",
+    "center": [
+      -1.46518,
+      0.35904,
+      -0.88503
+    ],
+    "size": [
+      0.06303,
+      0.06138,
+      0.00553
+    ],
+    "triangles": 560
+  },
+  {
+    "id": "MY-121",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "23_alum_0",
+    "material": "alum",
+    "center": [
+      -1.46518,
+      0.36889,
+      0.87369
+    ],
+    "size": [
+      0.08644,
+      0.08644,
+      0.02609
+    ],
+    "triangles": 598
+  },
+  {
+    "id": "MY-122",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "24_metal_0",
+    "material": "metal",
+    "center": [
+      -1.46518,
+      0.39115,
+      0.88456
+    ],
+    "size": [
+      0.06911,
+      0.01098,
+      0.00512
+    ],
+    "triangles": 424
+  },
+  {
+    "id": "MY-123",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "24_metal_0",
+    "material": "metal",
+    "center": [
+      -1.46518,
+      0.35904,
+      0.88503
+    ],
+    "size": [
+      0.06303,
+      0.06138,
+      0.00553
+    ],
+    "triangles": 560
+  },
+  {
+    "id": "MY-124",
+    "category": "wheels",
+    "zh": "车轮构件",
+    "en": "Wheel component",
+    "source": "25_alum_0",
+    "material": "alum",
+    "center": [
+      -1.46518,
+      0.36889,
+      -0.87369
+    ],
+    "size": [
+      0.08644,
+      0.08644,
+      0.02609
+    ],
+    "triangles": 598
+  },
+  {
+    "id": "MY-125",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "34_chrome_rear_lights_0",
+    "material": "chrome_rear_lights",
+    "center": [
+      1.98303,
+      0.985,
+      -0.71975
+    ],
+    "size": [
+      0.1696,
+      0.05197,
+      0.06037
+    ],
+    "triangles": 595
+  },
+  {
+    "id": "MY-126",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "34_chrome_rear_lights_0",
+    "material": "chrome_rear_lights",
+    "center": [
+      1.98303,
+      0.985,
+      0.71975
+    ],
+    "size": [
+      0.1696,
+      0.05197,
+      0.06037
+    ],
+    "triangles": 595
+  },
+  {
+    "id": "MY-127",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "34_chrome_rear_lights_0",
+    "material": "chrome_rear_lights",
+    "center": [
+      1.98514,
+      0.98488,
+      -0.72122
+    ],
+    "size": [
+      0.16034,
+      0.04684,
+      0.05228
+    ],
+    "triangles": 2554
+  },
+  {
+    "id": "MY-128",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "34_chrome_rear_lights_0",
+    "material": "chrome_rear_lights",
+    "center": [
+      1.98504,
+      0.98488,
+      0.72126
+    ],
+    "size": [
+      0.16067,
+      0.04684,
+      0.05216
+    ],
+    "triangles": 2554
+  },
+  {
+    "id": "MY-129",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "35_black2_0",
+    "material": "black2",
+    "center": [
+      1.95769,
+      0.99385,
+      -0.70598
+    ],
+    "size": [
+      0.23689,
+      0.12431,
+      0.09475
+    ],
+    "triangles": 3580
+  },
+  {
+    "id": "MY-130",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "35_black2_0",
+    "material": "black2",
+    "center": [
+      1.95769,
+      0.99382,
+      0.70593
+    ],
+    "size": [
+      0.23689,
+      0.12425,
+      0.09486
+    ],
+    "triangles": 3571
+  },
+  {
+    "id": "MY-131",
+    "category": "glass",
+    "zh": "玻璃构件",
+    "en": "Glazing component",
+    "source": "36_glass_body_0",
+    "material": "glass_body",
+    "center": [
+      1.77288,
+      1.30699,
+      1e-05
+    ],
+    "size": [
+      0.85352,
+      0.26276,
+      0.94923
+    ],
+    "triangles": 1693
+  },
+  {
+    "id": "MY-132",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "37_interior_0",
+    "material": "interior",
+    "center": [
+      1.77288,
+      1.30571,
+      1e-05
+    ],
+    "size": [
+      0.85352,
+      0.26275,
+      0.9489
+    ],
+    "triangles": 2150
+  },
+  {
+    "id": "MY-133",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "38_chrome_rear_lights_0",
+    "material": "chrome_rear_lights",
+    "center": [
+      2.29548,
+      0.45129,
+      -0.38713
+    ],
+    "size": [
+      0.09438,
+      0.02909,
+      0.28899
+    ],
+    "triangles": 864
+  },
+  {
+    "id": "MY-134",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "38_chrome_rear_lights_0",
+    "material": "chrome_rear_lights",
+    "center": [
+      2.2955,
+      0.45129,
+      0.38714
+    ],
+    "size": [
+      0.09441,
+      0.02909,
+      0.28899
+    ],
+    "triangles": 863
+  },
+  {
+    "id": "MY-135",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "39_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      2.2956,
+      0.45129,
+      -0.38711
+    ],
+    "size": [
+      0.09455,
+      0.02948,
+      0.28931
+    ],
+    "triangles": 488
+  },
+  {
+    "id": "MY-136",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "39_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      2.29555,
+      0.45129,
+      0.38715
+    ],
+    "size": [
+      0.09452,
+      0.02948,
+      0.28932
+    ],
+    "triangles": 488
+  },
+  {
+    "id": "MY-137",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "40_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      2.16649,
+      0.96957,
+      0.59895
+    ],
+    "size": [
+      0.04306,
+      0.00914,
+      0.088
+    ],
+    "triangles": 1026
+  },
+  {
+    "id": "MY-138",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "40_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      2.16638,
+      0.96957,
+      -0.59899
+    ],
+    "size": [
+      0.04325,
+      0.00914,
+      0.0881
+    ],
+    "triangles": 1027
+  },
+  {
+    "id": "MY-139",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "40_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      2.21926,
+      0.96957,
+      0.47243
+    ],
+    "size": [
+      0.0508,
+      0.00914,
+      0.13625
+    ],
+    "triangles": 1624
+  },
+  {
+    "id": "MY-140",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "40_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      2.2191,
+      0.96957,
+      -0.47278
+    ],
+    "size": [
+      0.05114,
+      0.00914,
+      0.13695
+    ],
+    "triangles": 1624
+  },
+  {
+    "id": "MY-141",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "41_interior_0",
+    "material": "interior",
+    "center": [
+      0.77622,
+      1.28145,
+      -0.63366
+    ],
+    "size": [
+      0.8344,
+      0.40169,
+      0.20568
+    ],
+    "triangles": 1041
+  },
+  {
+    "id": "MY-142",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "41_interior_0",
+    "material": "interior",
+    "center": [
+      0.77636,
+      1.28149,
+      0.63328
+    ],
+    "size": [
+      0.83433,
+      0.40109,
+      0.20604
+    ],
+    "triangles": 980
+  },
+  {
+    "id": "MY-143",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "41_interior_0",
+    "material": "interior",
+    "center": [
+      1.37432,
+      1.25334,
+      -0.59051
+    ],
+    "size": [
+      0.41029,
+      0.25067,
+      0.1511
+    ],
+    "triangles": 595
+  },
+  {
+    "id": "MY-144",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "41_interior_0",
+    "material": "interior",
+    "center": [
+      1.37444,
+      1.25334,
+      0.59086
+    ],
+    "size": [
+      0.41042,
+      0.25069,
+      0.1505
+    ],
+    "triangles": 594
+  },
+  {
+    "id": "MY-145",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "42_black_0",
+    "material": "black",
+    "center": [
+      0.32391,
+      1.27862,
+      -0.65306
+    ],
+    "size": [
+      0.22467,
+      0.41078,
+      0.17983
+    ],
+    "triangles": 2020
+  },
+  {
+    "id": "MY-146",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "42_black_0",
+    "material": "black",
+    "center": [
+      0.32403,
+      1.27859,
+      0.65308
+    ],
+    "size": [
+      0.22483,
+      0.41107,
+      0.18013
+    ],
+    "triangles": 1796
+  },
+  {
+    "id": "MY-147",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "42_black_0",
+    "material": "black",
+    "center": [
+      1.18061,
+      1.25658,
+      -0.60673
+    ],
+    "size": [
+      0.04998,
+      0.25747,
+      0.13507
+    ],
+    "triangles": 788
+  },
+  {
+    "id": "MY-148",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "42_black_0",
+    "material": "black",
+    "center": [
+      1.18071,
+      1.25673,
+      0.60674
+    ],
+    "size": [
+      0.05021,
+      0.25741,
+      0.1351
+    ],
+    "triangles": 788
+  },
+  {
+    "id": "MY-149",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      -0.16707,
+      0.54407,
+      0.00712
+    ],
+    "size": [
+      1.52623,
+      0.25377,
+      0.19931
+    ],
+    "triangles": 1200
+  },
+  {
+    "id": "MY-150",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.63903,
+      0.78762,
+      0.0
+    ],
+    "size": [
+      3.05877,
+      0.79256,
+      1.55793
+    ],
+    "triangles": 689
+  },
+  {
+    "id": "MY-151",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      -0.48375,
+      0.96043,
+      0.34856
+    ],
+    "size": [
+      0.18818,
+      0.12137,
+      0.18149
+    ],
+    "triangles": 1934
+  },
+  {
+    "id": "MY-152",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      -0.42694,
+      0.999,
+      0.24558
+    ],
+    "size": [
+      0.03908,
+      0.04505,
+      0.10313
+    ],
+    "triangles": 736
+  },
+  {
+    "id": "MY-153",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      -0.42694,
+      0.999,
+      0.46562
+    ],
+    "size": [
+      0.03908,
+      0.04505,
+      0.10313
+    ],
+    "triangles": 720
+  },
+  {
+    "id": "MY-154",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      -0.3698,
+      1.02959,
+      0.35553
+    ],
+    "size": [
+      0.1232,
+      0.33571,
+      0.35108
+    ],
+    "triangles": 2292
+  },
+  {
+    "id": "MY-155",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      -0.36112,
+      0.97252,
+      0.35548
+    ],
+    "size": [
+      0.09522,
+      0.18305,
+      0.31922
+    ],
+    "triangles": 536
+  },
+  {
+    "id": "MY-156",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      -0.26718,
+      0.54475,
+      -0.34818
+    ],
+    "size": [
+      0.18921,
+      0.15559,
+      0.35312
+    ],
+    "triangles": 672
+  },
+  {
+    "id": "MY-157",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      -0.26718,
+      0.54475,
+      0.35878
+    ],
+    "size": [
+      0.18921,
+      0.15559,
+      0.35312
+    ],
+    "triangles": 672
+  },
+  {
+    "id": "MY-158",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      -0.29478,
+      0.73741,
+      -0.01404
+    ],
+    "size": [
+      0.0847,
+      0.12323,
+      0.04668
+    ],
+    "triangles": 1938
+  },
+  {
+    "id": "MY-159",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      -0.09997,
+      0.56865,
+      -0.5671
+    ],
+    "size": [
+      0.44852,
+      0.24696,
+      0.09243
+    ],
+    "triangles": 704
+  },
+  {
+    "id": "MY-160",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      -0.09997,
+      0.56865,
+      -0.13401
+    ],
+    "size": [
+      0.44852,
+      0.24696,
+      0.09243
+    ],
+    "triangles": 672
+  },
+  {
+    "id": "MY-161",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      -0.09997,
+      0.56865,
+      0.13945
+    ],
+    "size": [
+      0.44852,
+      0.24696,
+      0.09238
+    ],
+    "triangles": 688
+  },
+  {
+    "id": "MY-162",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      -0.09997,
+      0.56865,
+      0.56587
+    ],
+    "size": [
+      0.44852,
+      0.24696,
+      0.09243
+    ],
+    "triangles": 672
+  },
+  {
+    "id": "MY-163",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      -0.00536,
+      0.53479,
+      -0.34818
+    ],
+    "size": [
+      0.34561,
+      0.17601,
+      0.35312
+    ],
+    "triangles": 672
+  },
+  {
+    "id": "MY-164",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      -0.00536,
+      0.53479,
+      0.35878
+    ],
+    "size": [
+      0.34561,
+      0.17601,
+      0.35312
+    ],
+    "triangles": 672
+  },
+  {
+    "id": "MY-165",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.22831,
+      0.76568,
+      -0.54358
+    ],
+    "size": [
+      0.25252,
+      0.70322,
+      0.12973
+    ],
+    "triangles": 556
+  },
+  {
+    "id": "MY-166",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.22815,
+      0.76568,
+      -0.15135
+    ],
+    "size": [
+      0.25271,
+      0.70322,
+      0.12972
+    ],
+    "triangles": 560
+  },
+  {
+    "id": "MY-167",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.22818,
+      0.76568,
+      0.1622
+    ],
+    "size": [
+      0.25279,
+      0.70322,
+      0.12953
+    ],
+    "triangles": 553
+  },
+  {
+    "id": "MY-168",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.22811,
+      0.76568,
+      0.55516
+    ],
+    "size": [
+      0.25271,
+      0.70322,
+      0.12948
+    ],
+    "triangles": 554
+  },
+  {
+    "id": "MY-169",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.21776,
+      0.6163,
+      -0.34818
+    ],
+    "size": [
+      0.18922,
+      0.34653,
+      0.35312
+    ],
+    "triangles": 375
+  },
+  {
+    "id": "MY-170",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.21776,
+      0.6163,
+      0.35876
+    ],
+    "size": [
+      0.18922,
+      0.34653,
+      0.35308
+    ],
+    "triangles": 375
+  },
+  {
+    "id": "MY-171",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.26116,
+      0.94432,
+      -0.34815
+    ],
+    "size": [
+      0.1863,
+      0.34595,
+      0.34079
+    ],
+    "triangles": 482
+  },
+  {
+    "id": "MY-172",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.26115,
+      0.94432,
+      0.35878
+    ],
+    "size": [
+      0.18628,
+      0.34595,
+      0.34082
+    ],
+    "triangles": 482
+  },
+  {
+    "id": "MY-173",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.22131,
+      0.41407,
+      0.1707
+    ],
+    "size": [
+      0.0,
+      0.0,
+      0.01772
+    ],
+    "triangles": 15
+  },
+  {
+    "id": "MY-174",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.29017,
+      1.19439,
+      -0.34817
+    ],
+    "size": [
+      0.11154,
+      0.21452,
+      0.26491
+    ],
+    "triangles": 492
+  },
+  {
+    "id": "MY-175",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.29017,
+      1.19439,
+      0.35875
+    ],
+    "size": [
+      0.11154,
+      0.21453,
+      0.26489
+    ],
+    "triangles": 492
+  },
+  {
+    "id": "MY-176",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.56612,
+      0.55584,
+      -0.39986
+    ],
+    "size": [
+      0.16493,
+      0.16813,
+      0.35312
+    ],
+    "triangles": 672
+  },
+  {
+    "id": "MY-177",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.56612,
+      0.55584,
+      -0.00161
+    ],
+    "size": [
+      0.16493,
+      0.16813,
+      0.45839
+    ],
+    "triangles": 672
+  },
+  {
+    "id": "MY-178",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.56612,
+      0.55584,
+      0.40279
+    ],
+    "size": [
+      0.16493,
+      0.16813,
+      0.35308
+    ],
+    "triangles": 672
+  },
+  {
+    "id": "MY-179",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.7008,
+      0.57967,
+      -0.61498
+    ],
+    "size": [
+      0.37492,
+      0.25719,
+      0.09243
+    ],
+    "triangles": 688
+  },
+  {
+    "id": "MY-180",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.7008,
+      0.57967,
+      0.60916
+    ],
+    "size": [
+      0.37492,
+      0.25719,
+      0.09238
+    ],
+    "triangles": 688
+  },
+  {
+    "id": "MY-181",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.77113,
+      0.55967,
+      -0.39986
+    ],
+    "size": [
+      0.28074,
+      0.1631,
+      0.35312
+    ],
+    "triangles": 672
+  },
+  {
+    "id": "MY-182",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.77113,
+      0.55967,
+      -0.00161
+    ],
+    "size": [
+      0.28074,
+      0.1631,
+      0.45839
+    ],
+    "triangles": 672
+  },
+  {
+    "id": "MY-183",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.77113,
+      0.55967,
+      0.40279
+    ],
+    "size": [
+      0.28074,
+      0.1631,
+      0.35308
+    ],
+    "triangles": 672
+  },
+  {
+    "id": "MY-184",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      1.05055,
+      0.85716,
+      -0.62491
+    ],
+    "size": [
+      0.37124,
+      0.55153,
+      0.09963
+    ],
+    "triangles": 545
+  },
+  {
+    "id": "MY-185",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      1.05054,
+      0.85716,
+      0.6249
+    ],
+    "size": [
+      0.37123,
+      0.55153,
+      0.09961
+    ],
+    "triangles": 550
+  },
+  {
+    "id": "MY-186",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.97585,
+      0.68757,
+      -0.39986
+    ],
+    "size": [
+      0.19756,
+      0.24595,
+      0.35312
+    ],
+    "triangles": 367
+  },
+  {
+    "id": "MY-187",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.97585,
+      0.68757,
+      -0.00161
+    ],
+    "size": [
+      0.19756,
+      0.24595,
+      0.45839
+    ],
+    "triangles": 367
+  },
+  {
+    "id": "MY-188",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      0.97585,
+      0.68757,
+      0.40279
+    ],
+    "size": [
+      0.19756,
+      0.24595,
+      0.35308
+    ],
+    "triangles": 366
+  },
+  {
+    "id": "MY-189",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      1.10545,
+      0.96208,
+      -0.39986
+    ],
+    "size": [
+      0.26139,
+      0.34169,
+      0.35312
+    ],
+    "triangles": 482
+  },
+  {
+    "id": "MY-190",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      1.10545,
+      0.96208,
+      -0.00161
+    ],
+    "size": [
+      0.26139,
+      0.34169,
+      0.45839
+    ],
+    "triangles": 482
+  },
+  {
+    "id": "MY-191",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      1.10545,
+      0.96208,
+      0.40279
+    ],
+    "size": [
+      0.26139,
+      0.34169,
+      0.35308
+    ],
+    "triangles": 482
+  },
+  {
+    "id": "MY-192",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      1.16184,
+      1.18791,
+      -0.39048
+    ],
+    "size": [
+      0.13194,
+      0.23016,
+      0.24223
+    ],
+    "triangles": 604
+  },
+  {
+    "id": "MY-193",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      1.15207,
+      1.13304,
+      -0.00183
+    ],
+    "size": [
+      0.1124,
+      0.12041,
+      0.2422
+    ],
+    "triangles": 488
+  },
+  {
+    "id": "MY-194",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "43_interior_0",
+    "material": "interior",
+    "center": [
+      1.16184,
+      1.18791,
+      0.40825
+    ],
+    "size": [
+      0.13194,
+      0.23016,
+      0.24223
+    ],
+    "triangles": 604
+  },
+  {
+    "id": "MY-195",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "44_chrome_0",
+    "material": "chrome",
+    "center": [
+      0.05563,
+      0.92031,
+      -0.82976
+    ],
+    "size": [
+      0.21213,
+      0.03826,
+      0.01969
+    ],
+    "triangles": 2607
+  },
+  {
+    "id": "MY-196",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "44_chrome_0",
+    "material": "chrome",
+    "center": [
+      0.05554,
+      0.92026,
+      0.82977
+    ],
+    "size": [
+      0.21232,
+      0.03835,
+      0.01969
+    ],
+    "triangles": 2606
+  },
+  {
+    "id": "MY-197",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "44_chrome_0",
+    "material": "chrome",
+    "center": [
+      1.05458,
+      0.96357,
+      -0.83352
+    ],
+    "size": [
+      0.2115,
+      0.03782,
+      0.01724
+    ],
+    "triangles": 2584
+  },
+  {
+    "id": "MY-198",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "44_chrome_0",
+    "material": "chrome",
+    "center": [
+      1.05461,
+      0.96348,
+      0.83353
+    ],
+    "size": [
+      0.21141,
+      0.038,
+      0.01724
+    ],
+    "triangles": 2589
+  },
+  {
+    "id": "MY-199",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "45_interior_0",
+    "material": "interior",
+    "center": [
+      0.54456,
+      0.95605,
+      0.0
+    ],
+    "size": [
+      3.149,
+      1.17718,
+      1.46724
+    ],
+    "triangles": 17315
+  },
+  {
+    "id": "MY-200",
+    "category": "glass",
+    "zh": "玻璃构件",
+    "en": "Glazing component",
+    "source": "46_glass_body_0",
+    "material": "glass_body",
+    "center": [
+      0.51985,
+      1.50765,
+      1e-05
+    ],
+    "size": [
+      1.6705,
+      0.20308,
+      1.13199
+    ],
+    "triangles": 2037
+  },
+  {
+    "id": "MY-201",
+    "category": "glass",
+    "zh": "玻璃构件",
+    "en": "Glazing component",
+    "source": "47_glass_body_0",
+    "material": "glass_body",
+    "center": [
+      -0.17433,
+      1.25873,
+      -0.65211
+    ],
+    "size": [
+      1.01367,
+      0.45241,
+      0.18148
+    ],
+    "triangles": 1083
+  },
+  {
+    "id": "MY-202",
+    "category": "glass",
+    "zh": "玻璃构件",
+    "en": "Glazing component",
+    "source": "47_glass_body_0",
+    "material": "glass_body",
+    "center": [
+      -0.17427,
+      1.25859,
+      0.6522
+    ],
+    "size": [
+      1.01376,
+      0.45212,
+      0.18132
+    ],
+    "triangles": 1084
+  },
+  {
+    "id": "MY-203",
+    "category": "glass",
+    "zh": "玻璃构件",
+    "en": "Glazing component",
+    "source": "47_glass_body_0",
+    "material": "glass_body",
+    "center": [
+      0.7762,
+      1.28152,
+      -0.63475
+    ],
+    "size": [
+      0.83445,
+      0.4018,
+      0.20577
+    ],
+    "triangles": 993
+  },
+  {
+    "id": "MY-204",
+    "category": "glass",
+    "zh": "玻璃构件",
+    "en": "Glazing component",
+    "source": "47_glass_body_0",
+    "material": "glass_body",
+    "center": [
+      0.77634,
+      1.2815,
+      0.63471
+    ],
+    "size": [
+      0.83445,
+      0.40183,
+      0.20604
+    ],
+    "triangles": 994
+  },
+  {
+    "id": "MY-205",
+    "category": "glass",
+    "zh": "玻璃构件",
+    "en": "Glazing component",
+    "source": "47_glass_body_0",
+    "material": "glass_body",
+    "center": [
+      1.37442,
+      1.25334,
+      -0.59207
+    ],
+    "size": [
+      0.41035,
+      0.25062,
+      0.15076
+    ],
+    "triangles": 720
+  },
+  {
+    "id": "MY-206",
+    "category": "glass",
+    "zh": "玻璃构件",
+    "en": "Glazing component",
+    "source": "47_glass_body_0",
+    "material": "glass_body",
+    "center": [
+      1.37429,
+      1.25332,
+      0.59196
+    ],
+    "size": [
+      0.41018,
+      0.25053,
+      0.15118
+    ],
+    "triangles": 720
+  },
+  {
+    "id": "MY-207",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "48_black_0",
+    "material": "black",
+    "center": [
+      -0.10067,
+      0.4323,
+      0.0
+    ],
+    "size": [
+      4.34508,
+      0.62416,
+      1.84049
+    ],
+    "triangles": 551
+  },
+  {
+    "id": "MY-208",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "49_chrome_0",
+    "material": "chrome",
+    "center": [
+      -0.50314,
+      1.35698,
+      0.0
+    ],
+    "size": [
+      0.00837,
+      0.05613,
+      0.20889
+    ],
+    "triangles": 944
+  },
+  {
+    "id": "MY-209",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "50_chrome_dark_0",
+    "material": "chrome_dark",
+    "center": [
+      -1.07232,
+      0.79248,
+      -0.87042
+    ],
+    "size": [
+      0.14384,
+      0.05824,
+      0.03493
+    ],
+    "triangles": 1814
+  },
+  {
+    "id": "MY-210",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "50_chrome_dark_0",
+    "material": "chrome_dark",
+    "center": [
+      -1.0725,
+      0.7924,
+      0.87035
+    ],
+    "size": [
+      0.14412,
+      0.05836,
+      0.03478
+    ],
+    "triangles": 1814
+  },
+  {
+    "id": "MY-211",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "51_black_0",
+    "material": "black",
+    "center": [
+      -1.22813,
+      0.9838,
+      0.0
+    ],
+    "size": [
+      0.41088,
+      0.11523,
+      1.37311
+    ],
+    "triangles": 2652
+  },
+  {
+    "id": "MY-212",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "52_black_0",
+    "material": "black",
+    "center": [
+      -2.25345,
+      0.31714,
+      0.0
+    ],
+    "size": [
+      0.0889,
+      0.12655,
+      1.0812
+    ],
+    "triangles": 7135
+  },
+  {
+    "id": "MY-213",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "53_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.24697,
+      0.31838,
+      0.00049
+    ],
+    "size": [
+      0.10351,
+      0.12985,
+      1.09177
+    ],
+    "triangles": 3668
+  },
+  {
+    "id": "MY-214",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "54_interior_0",
+    "material": "interior",
+    "center": [
+      -0.52892,
+      1.37388,
+      0.0
+    ],
+    "size": [
+      0.04396,
+      0.04633,
+      0.02957
+    ],
+    "triangles": 480
+  },
+  {
+    "id": "MY-215",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "54_interior_0",
+    "material": "interior",
+    "center": [
+      -0.50594,
+      1.35711,
+      5e-05
+    ],
+    "size": [
+      0.01973,
+      0.06299,
+      0.21439
+    ],
+    "triangles": 586
+  },
+  {
+    "id": "MY-216",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "55_interior_0",
+    "material": "interior",
+    "center": [
+      -1.36271,
+      0.96703,
+      -0.01436
+    ],
+    "size": [
+      0.03848,
+      0.03943,
+      0.02692
+    ],
+    "triangles": 414
+  },
+  {
+    "id": "MY-217",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "55_interior_0",
+    "material": "interior",
+    "center": [
+      -1.29531,
+      1.00072,
+      -0.20039
+    ],
+    "size": [
+      0.1668,
+      0.08341,
+      0.38108
+    ],
+    "triangles": 784
+  },
+  {
+    "id": "MY-218",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "55_interior_0",
+    "material": "interior",
+    "center": [
+      -1.19071,
+      1.02115,
+      -0.39195
+    ],
+    "size": [
+      0.17503,
+      0.0515,
+      0.56484
+    ],
+    "triangles": 1208
+  },
+  {
+    "id": "MY-219",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "55_interior_0",
+    "material": "interior",
+    "center": [
+      -1.18677,
+      1.00922,
+      -0.39055
+    ],
+    "size": [
+      0.17204,
+      0.03685,
+      0.55753
+    ],
+    "triangles": 824
+  },
+  {
+    "id": "MY-220",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "56_black_0",
+    "material": "black",
+    "center": [
+      -1.27405,
+      0.96739,
+      0.58661
+    ],
+    "size": [
+      0.03785,
+      0.04003,
+      0.02676
+    ],
+    "triangles": 414
+  },
+  {
+    "id": "MY-221",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "56_black_0",
+    "material": "black",
+    "center": [
+      -1.26793,
+      0.99793,
+      0.38554
+    ],
+    "size": [
+      0.04524,
+      0.07605,
+      0.40656
+    ],
+    "triangles": 784
+  },
+  {
+    "id": "MY-222",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "56_black_0",
+    "material": "black",
+    "center": [
+      -1.24038,
+      1.01843,
+      0.1734
+    ],
+    "size": [
+      0.04732,
+      0.04657,
+      0.58765
+    ],
+    "triangles": 1208
+  },
+  {
+    "id": "MY-223",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "56_black_0",
+    "material": "black",
+    "center": [
+      -1.23112,
+      1.00664,
+      0.17413
+    ],
+    "size": [
+      0.03554,
+      0.03225,
+      0.57913
+    ],
+    "triangles": 824
+  },
+  {
+    "id": "MY-224",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "57_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      -2.05152,
+      0.42171,
+      -0.80804
+    ],
+    "size": [
+      0.01762,
+      0.04659,
+      0.065
+    ],
+    "triangles": 200
+  },
+  {
+    "id": "MY-225",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "57_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      -2.05152,
+      0.42171,
+      0.80804
+    ],
+    "size": [
+      0.01762,
+      0.04659,
+      0.065
+    ],
+    "triangles": 200
+  },
+  {
+    "id": "MY-226",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "58_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.04613,
+      0.42171,
+      -0.80805
+    ],
+    "size": [
+      0.00768,
+      0.01079,
+      0.01077
+    ],
+    "triangles": 126
+  },
+  {
+    "id": "MY-227",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "58_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.04613,
+      0.42171,
+      0.80806
+    ],
+    "size": [
+      0.00768,
+      0.01079,
+      0.01077
+    ],
+    "triangles": 126
+  },
+  {
+    "id": "MY-228",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "59_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      -1.95433,
+      0.78648,
+      -0.64248
+    ],
+    "size": [
+      0.47866,
+      0.21079,
+      0.32454
+    ],
+    "triangles": 957
+  },
+  {
+    "id": "MY-229",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "59_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      -1.95386,
+      0.78656,
+      0.64272
+    ],
+    "size": [
+      0.47871,
+      0.21095,
+      0.32408
+    ],
+    "triangles": 957
+  },
+  {
+    "id": "MY-230",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "60_black2_0",
+    "material": "black2",
+    "center": [
+      2.26464,
+      0.93753,
+      0.0
+    ],
+    "size": [
+      0.12366,
+      0.01934,
+      0.65554
+    ],
+    "triangles": 576
+  },
+  {
+    "id": "MY-231",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "61_chrome_rear_2_0",
+    "material": "chrome_rear_2",
+    "center": [
+      2.1576,
+      0.96948,
+      -0.61245
+    ],
+    "size": [
+      0.07651,
+      0.05732,
+      0.12735
+    ],
+    "triangles": 1696
+  },
+  {
+    "id": "MY-232",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "61_chrome_rear_2_0",
+    "material": "chrome_rear_2",
+    "center": [
+      2.15746,
+      0.96947,
+      0.61251
+    ],
+    "size": [
+      0.07626,
+      0.05729,
+      0.12745
+    ],
+    "triangles": 1694
+  },
+  {
+    "id": "MY-233",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "61_chrome_rear_2_0",
+    "material": "chrome_rear_2",
+    "center": [
+      2.16176,
+      0.96959,
+      -0.59868
+    ],
+    "size": [
+      0.05278,
+      0.01005,
+      0.08865
+    ],
+    "triangles": 591
+  },
+  {
+    "id": "MY-234",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "61_chrome_rear_2_0",
+    "material": "chrome_rear_2",
+    "center": [
+      2.16302,
+      0.96959,
+      0.5985
+    ],
+    "size": [
+      0.05027,
+      0.01005,
+      0.08828
+    ],
+    "triangles": 593
+  },
+  {
+    "id": "MY-235",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "61_chrome_rear_2_0",
+    "material": "chrome_rear_2",
+    "center": [
+      2.22061,
+      0.96945,
+      -0.45295
+    ],
+    "size": [
+      0.08953,
+      0.05727,
+      0.18803
+    ],
+    "triangles": 2215
+  },
+  {
+    "id": "MY-236",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "61_chrome_rear_2_0",
+    "material": "chrome_rear_2",
+    "center": [
+      2.22067,
+      0.96945,
+      0.4529
+    ],
+    "size": [
+      0.08963,
+      0.05727,
+      0.18805
+    ],
+    "triangles": 2170
+  },
+  {
+    "id": "MY-237",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "61_chrome_rear_2_0",
+    "material": "chrome_rear_2",
+    "center": [
+      2.21429,
+      0.96959,
+      -0.47232
+    ],
+    "size": [
+      0.06073,
+      0.01004,
+      0.13773
+    ],
+    "triangles": 605
+  },
+  {
+    "id": "MY-238",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "61_chrome_rear_2_0",
+    "material": "chrome_rear_2",
+    "center": [
+      2.21465,
+      0.96959,
+      0.47214
+    ],
+    "size": [
+      0.06001,
+      0.01004,
+      0.13736
+    ],
+    "triangles": 601
+  },
+  {
+    "id": "MY-239",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "62_chrome_rear_2_0",
+    "material": "chrome_rear_2",
+    "center": [
+      2.1611,
+      0.96961,
+      -0.59909
+    ],
+    "size": [
+      0.04507,
+      0.00898,
+      0.08893
+    ],
+    "triangles": 240
+  },
+  {
+    "id": "MY-240",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "62_chrome_rear_2_0",
+    "material": "chrome_rear_2",
+    "center": [
+      2.1611,
+      0.96961,
+      0.59909
+    ],
+    "size": [
+      0.04507,
+      0.00898,
+      0.08893
+    ],
+    "triangles": 240
+  },
+  {
+    "id": "MY-241",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "62_chrome_rear_2_0",
+    "material": "chrome_rear_2",
+    "center": [
+      2.21329,
+      0.96961,
+      -0.47217
+    ],
+    "size": [
+      0.05077,
+      0.00898,
+      0.13756
+    ],
+    "triangles": 376
+  },
+  {
+    "id": "MY-242",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "62_chrome_rear_2_0",
+    "material": "chrome_rear_2",
+    "center": [
+      2.21329,
+      0.96961,
+      0.47217
+    ],
+    "size": [
+      0.05077,
+      0.00898,
+      0.13756
+    ],
+    "triangles": 376
+  },
+  {
+    "id": "MY-243",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "63_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      2.13929,
+      0.96554,
+      -0.62897
+    ],
+    "size": [
+      0.13109,
+      0.13255,
+      0.17626
+    ],
+    "triangles": 4607
+  },
+  {
+    "id": "MY-244",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "63_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      2.1393,
+      0.96554,
+      0.6288
+    ],
+    "size": [
+      0.13136,
+      0.13256,
+      0.17661
+    ],
+    "triangles": 4608
+  },
+  {
+    "id": "MY-245",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "63_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      2.2328,
+      0.98302,
+      -0.43991
+    ],
+    "size": [
+      0.11265,
+      0.09557,
+      0.22699
+    ],
+    "triangles": 5267
+  },
+  {
+    "id": "MY-246",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "63_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      2.23323,
+      0.98301,
+      0.43983
+    ],
+    "size": [
+      0.11182,
+      0.09556,
+      0.22695
+    ],
+    "triangles": 5267
+  },
+  {
+    "id": "MY-247",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "64_black2_0",
+    "material": "black2",
+    "center": [
+      2.13716,
+      0.96945,
+      -0.61241
+    ],
+    "size": [
+      0.11311,
+      0.05726,
+      0.12727
+    ],
+    "triangles": 1182
+  },
+  {
+    "id": "MY-248",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "64_black2_0",
+    "material": "black2",
+    "center": [
+      2.13724,
+      0.96945,
+      0.61248
+    ],
+    "size": [
+      0.11293,
+      0.05726,
+      0.1274
+    ],
+    "triangles": 1183
+  },
+  {
+    "id": "MY-249",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "64_black2_0",
+    "material": "black2",
+    "center": [
+      2.14567,
+      0.96925,
+      -0.60467
+    ],
+    "size": [
+      0.08722,
+      0.01637,
+      0.10336
+    ],
+    "triangles": 1973
+  },
+  {
+    "id": "MY-250",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "64_black2_0",
+    "material": "black2",
+    "center": [
+      2.14561,
+      0.9693,
+      0.60474
+    ],
+    "size": [
+      0.08742,
+      0.01648,
+      0.10378
+    ],
+    "triangles": 1973
+  },
+  {
+    "id": "MY-251",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "64_black2_0",
+    "material": "black2",
+    "center": [
+      2.15022,
+      0.96419,
+      -0.61354
+    ],
+    "size": [
+      0.09168,
+      0.08629,
+      0.13761
+    ],
+    "triangles": 608
+  },
+  {
+    "id": "MY-252",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "64_black2_0",
+    "material": "black2",
+    "center": [
+      2.15022,
+      0.96419,
+      0.61354
+    ],
+    "size": [
+      0.09168,
+      0.08629,
+      0.13761
+    ],
+    "triangles": 608
+  },
+  {
+    "id": "MY-253",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "64_black2_0",
+    "material": "black2",
+    "center": [
+      2.20386,
+      0.96945,
+      -0.45294
+    ],
+    "size": [
+      0.11926,
+      0.05726,
+      0.18801
+    ],
+    "triangles": 1130
+  },
+  {
+    "id": "MY-254",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "64_black2_0",
+    "material": "black2",
+    "center": [
+      2.20383,
+      0.96945,
+      0.45299
+    ],
+    "size": [
+      0.11922,
+      0.05726,
+      0.18792
+    ],
+    "triangles": 1130
+  },
+  {
+    "id": "MY-255",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "64_black2_0",
+    "material": "black2",
+    "center": [
+      2.2027,
+      0.96923,
+      -0.46522
+    ],
+    "size": [
+      0.08712,
+      0.01633,
+      0.15416
+    ],
+    "triangles": 1972
+  },
+  {
+    "id": "MY-256",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "64_black2_0",
+    "material": "black2",
+    "center": [
+      2.2025,
+      0.96915,
+      0.4653
+    ],
+    "size": [
+      0.08721,
+      0.01586,
+      0.15432
+    ],
+    "triangles": 2033
+  },
+  {
+    "id": "MY-257",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "64_black2_0",
+    "material": "black2",
+    "center": [
+      2.21603,
+      0.95621,
+      -0.45038
+    ],
+    "size": [
+      0.09605,
+      0.10226,
+      0.19695
+    ],
+    "triangles": 580
+  },
+  {
+    "id": "MY-258",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "64_black2_0",
+    "material": "black2",
+    "center": [
+      2.21603,
+      0.95621,
+      0.45039
+    ],
+    "size": [
+      0.09605,
+      0.10226,
+      0.19695
+    ],
+    "triangles": 580
+  },
+  {
+    "id": "MY-259",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "65_black2_0",
+    "material": "black2",
+    "center": [
+      2.10331,
+      0.96804,
+      -0.63635
+    ],
+    "size": [
+      0.20757,
+      0.15886,
+      0.20577
+    ],
+    "triangles": 2069
+  },
+  {
+    "id": "MY-260",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "65_black2_0",
+    "material": "black2",
+    "center": [
+      2.10333,
+      0.96804,
+      0.63634
+    ],
+    "size": [
+      0.20761,
+      0.15887,
+      0.20573
+    ],
+    "triangles": 2069
+  },
+  {
+    "id": "MY-261",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "65_black2_0",
+    "material": "black2",
+    "center": [
+      2.20997,
+      0.96646,
+      -0.43727
+    ],
+    "size": [
+      0.16283,
+      0.15395,
+      0.24918
+    ],
+    "triangles": 1991
+  },
+  {
+    "id": "MY-262",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "65_black2_0",
+    "material": "black2",
+    "center": [
+      2.20998,
+      0.96644,
+      0.43727
+    ],
+    "size": [
+      0.16283,
+      0.15397,
+      0.24918
+    ],
+    "triangles": 1991
+  },
+  {
+    "id": "MY-263",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "66_chrome_0",
+    "material": "chrome",
+    "center": [
+      2.3211,
+      1.03901,
+      -1e-05
+    ],
+    "size": [
+      0.01169,
+      0.07051,
+      0.07225
+    ],
+    "triangles": 656
+  },
+  {
+    "id": "MY-264",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "66_chrome_0",
+    "material": "chrome",
+    "center": [
+      2.32498,
+      1.0756,
+      0.0
+    ],
+    "size": [
+      0.00889,
+      0.0126,
+      0.0792
+    ],
+    "triangles": 495
+  },
+  {
+    "id": "MY-265",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "67_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      1.98336,
+      0.98485,
+      -0.72394
+    ],
+    "size": [
+      0.16941,
+      0.05261,
+      0.05343
+    ],
+    "triangles": 282
+  },
+  {
+    "id": "MY-266",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "67_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      1.98338,
+      0.98485,
+      0.72394
+    ],
+    "size": [
+      0.16948,
+      0.05261,
+      0.05345
+    ],
+    "triangles": 282
+  },
+  {
+    "id": "MY-267",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "68_glass_front_lights_0",
+    "material": "glass_front_lights",
+    "center": [
+      -2.03925,
+      0.7142,
+      -0.64041
+    ],
+    "size": [
+      0.22987,
+      0.04848,
+      0.2982
+    ],
+    "triangles": 384
+  },
+  {
+    "id": "MY-268",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "68_glass_front_lights_0",
+    "material": "glass_front_lights",
+    "center": [
+      -2.03925,
+      0.7142,
+      0.64042
+    ],
+    "size": [
+      0.22987,
+      0.04848,
+      0.2982
+    ],
+    "triangles": 384
+  },
+  {
+    "id": "MY-269",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "69_chrome_0",
+    "material": "chrome",
+    "center": [
+      -1.89147,
+      0.82648,
+      -0.65803
+    ],
+    "size": [
+      0.37036,
+      0.11391,
+      0.23486
+    ],
+    "triangles": 471
+  },
+  {
+    "id": "MY-270",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "69_chrome_0",
+    "material": "chrome",
+    "center": [
+      -1.89155,
+      0.82622,
+      0.65804
+    ],
+    "size": [
+      0.3702,
+      0.11442,
+      0.23477
+    ],
+    "triangles": 442
+  },
+  {
+    "id": "MY-271",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "70_chrome_0",
+    "material": "chrome",
+    "center": [
+      -1.85883,
+      0.84199,
+      -0.70852
+    ],
+    "size": [
+      0.30961,
+      0.08882,
+      0.12865
+    ],
+    "triangles": 411
+  },
+  {
+    "id": "MY-272",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "70_chrome_0",
+    "material": "chrome",
+    "center": [
+      -1.85879,
+      0.84195,
+      0.69514
+    ],
+    "size": [
+      0.30953,
+      0.08891,
+      0.15542
+    ],
+    "triangles": 411
+  },
+  {
+    "id": "MY-273",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "71_chrome_0",
+    "material": "chrome",
+    "center": [
+      -1.87925,
+      0.80859,
+      -0.66421
+    ],
+    "size": [
+      0.38163,
+      0.16243,
+      0.26468
+    ],
+    "triangles": 894
+  },
+  {
+    "id": "MY-274",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "71_chrome_0",
+    "material": "chrome",
+    "center": [
+      -1.87925,
+      0.80859,
+      0.66421
+    ],
+    "size": [
+      0.38163,
+      0.16243,
+      0.26468
+    ],
+    "triangles": 894
+  },
+  {
+    "id": "MY-275",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "72_chrome_0",
+    "material": "chrome",
+    "center": [
+      -1.89588,
+      0.82856,
+      -0.65853
+    ],
+    "size": [
+      0.37433,
+      0.11713,
+      0.23579
+    ],
+    "triangles": 1828
+  },
+  {
+    "id": "MY-276",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "72_chrome_0",
+    "material": "chrome",
+    "center": [
+      -1.89584,
+      0.82853,
+      0.65862
+    ],
+    "size": [
+      0.3744,
+      0.11719,
+      0.23585
+    ],
+    "triangles": 1853
+  },
+  {
+    "id": "MY-277",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "73_black_0",
+    "material": "black",
+    "center": [
+      -1.91427,
+      0.78652,
+      0.64233
+    ],
+    "size": [
+      0.55745,
+      0.21058,
+      0.32444
+    ],
+    "triangles": 1074
+  },
+  {
+    "id": "MY-278",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "73_black_0",
+    "material": "black",
+    "center": [
+      -1.91445,
+      0.78638,
+      -0.64267
+    ],
+    "size": [
+      0.5589,
+      0.2103,
+      0.32376
+    ],
+    "triangles": 1131
+  },
+  {
+    "id": "MY-279",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "74_chrome_0",
+    "material": "chrome",
+    "center": [
+      -1.92014,
+      0.78729,
+      -0.66431
+    ],
+    "size": [
+      0.30008,
+      0.11984,
+      0.26449
+    ],
+    "triangles": 388
+  },
+  {
+    "id": "MY-280",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "74_chrome_0",
+    "material": "chrome",
+    "center": [
+      -1.92051,
+      0.78729,
+      0.66433
+    ],
+    "size": [
+      0.30081,
+      0.11984,
+      0.26444
+    ],
+    "triangles": 387
+  },
+  {
+    "id": "MY-281",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "75_black_0",
+    "material": "black",
+    "center": [
+      -0.76576,
+      1.12232,
+      -0.69623
+    ],
+    "size": [
+      0.28259,
+      0.20288,
+      0.07026
+    ],
+    "triangles": 854
+  },
+  {
+    "id": "MY-282",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "75_black_0",
+    "material": "black",
+    "center": [
+      -0.7657,
+      1.12262,
+      0.69607
+    ],
+    "size": [
+      0.28239,
+      0.20311,
+      0.07059
+    ],
+    "triangles": 854
+  },
+  {
+    "id": "MY-283",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "76_black_0",
+    "material": "black",
+    "center": [
+      -1.99094,
+      0.33532,
+      -0.81977
+    ],
+    "size": [
+      0.09298,
+      0.11348,
+      0.05719
+    ],
+    "triangles": 40
+  },
+  {
+    "id": "MY-284",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "76_black_0",
+    "material": "black",
+    "center": [
+      -1.99094,
+      0.33532,
+      0.81977
+    ],
+    "size": [
+      0.09298,
+      0.11348,
+      0.05719
+    ],
+    "triangles": 40
+  },
+  {
+    "id": "MY-285",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "77_chrome_0",
+    "material": "chrome",
+    "center": [
+      -1.99323,
+      0.73403,
+      -0.6513
+    ],
+    "size": [
+      0.31596,
+      0.04608,
+      0.29827
+    ],
+    "triangles": 432
+  },
+  {
+    "id": "MY-286",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "77_chrome_0",
+    "material": "chrome",
+    "center": [
+      -1.99323,
+      0.73403,
+      0.6513
+    ],
+    "size": [
+      0.31596,
+      0.04608,
+      0.29827
+    ],
+    "triangles": 432
+  },
+  {
+    "id": "MY-287",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "78_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.02557,
+      0.71514,
+      -0.64114
+    ],
+    "size": [
+      0.26273,
+      0.05313,
+      0.30497
+    ],
+    "triangles": 1693
+  },
+  {
+    "id": "MY-288",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "78_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.02546,
+      0.71511,
+      0.6413
+    ],
+    "size": [
+      0.26308,
+      0.05306,
+      0.30488
+    ],
+    "triangles": 1693
+  },
+  {
+    "id": "MY-289",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "79_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.03641,
+      0.71413,
+      -0.64041
+    ],
+    "size": [
+      0.22885,
+      0.04863,
+      0.2982
+    ],
+    "triangles": 96
+  },
+  {
+    "id": "MY-290",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "79_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.03641,
+      0.71413,
+      0.64042
+    ],
+    "size": [
+      0.22885,
+      0.04863,
+      0.2982
+    ],
+    "triangles": 96
+  },
+  {
+    "id": "MY-291",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "80_body_0",
+    "material": "body",
+    "center": [
+      -0.66932,
+      1.09503,
+      -0.90997
+    ],
+    "size": [
+      0.19887,
+      0.1122,
+      0.20568
+    ],
+    "triangles": 743
+  },
+  {
+    "id": "MY-292",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "80_body_0",
+    "material": "body",
+    "center": [
+      -0.66945,
+      1.0951,
+      0.91
+    ],
+    "size": [
+      0.19895,
+      0.11232,
+      0.20576
+    ],
+    "triangles": 743
+  },
+  {
+    "id": "MY-293",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "81_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.04042,
+      0.42171,
+      -0.80805
+    ],
+    "size": [
+      0.01421,
+      0.01079,
+      0.01079
+    ],
+    "triangles": 494
+  },
+  {
+    "id": "MY-294",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "81_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.04042,
+      0.42171,
+      0.80805
+    ],
+    "size": [
+      0.01421,
+      0.01079,
+      0.01079
+    ],
+    "triangles": 494
+  },
+  {
+    "id": "MY-295",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "82_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.0426,
+      0.7151,
+      -0.64052
+    ],
+    "size": [
+      0.23218,
+      0.05298,
+      0.30552
+    ],
+    "triangles": 3300
+  },
+  {
+    "id": "MY-296",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "82_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.04297,
+      0.71515,
+      0.64024
+    ],
+    "size": [
+      0.23284,
+      0.05302,
+      0.30616
+    ],
+    "triangles": 3138
+  },
+  {
+    "id": "MY-297",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "83_interior_0",
+    "material": "interior",
+    "center": [
+      -0.63044,
+      0.7841,
+      7e-05
+    ],
+    "size": [
+      1.14705,
+      0.72636,
+      1.42068
+    ],
+    "triangles": 15051
+  },
+  {
+    "id": "MY-298",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "84_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.04902,
+      0.42171,
+      -0.80805
+    ],
+    "size": [
+      0.02189,
+      0.04614,
+      0.06436
+    ],
+    "triangles": 308
+  },
+  {
+    "id": "MY-299",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "84_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.04902,
+      0.42171,
+      0.80805
+    ],
+    "size": [
+      0.02189,
+      0.04614,
+      0.06436
+    ],
+    "triangles": 308
+  },
+  {
+    "id": "MY-300",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "84_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.0424,
+      0.42171,
+      -0.80805
+    ],
+    "size": [
+      0.01438,
+      0.04242,
+      0.05934
+    ],
+    "triangles": 140
+  },
+  {
+    "id": "MY-301",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "84_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.0424,
+      0.42171,
+      0.80805
+    ],
+    "size": [
+      0.01438,
+      0.04242,
+      0.05934
+    ],
+    "triangles": 140
+  },
+  {
+    "id": "MY-302",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "85_chrome_0",
+    "material": "chrome",
+    "center": [
+      -0.61868,
+      1.08208,
+      -0.90972
+    ],
+    "size": [
+      0.08526,
+      0.12129,
+      0.18647
+    ],
+    "triangles": 760
+  },
+  {
+    "id": "MY-303",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "85_chrome_0",
+    "material": "chrome",
+    "center": [
+      -0.61869,
+      1.0821,
+      0.9097
+    ],
+    "size": [
+      0.08537,
+      0.12125,
+      0.18654
+    ],
+    "triangles": 761
+  },
+  {
+    "id": "MY-304",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "86_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      -2.09477,
+      0.42706,
+      -0.70878
+    ],
+    "size": [
+      0.31136,
+      0.07424,
+      0.28791
+    ],
+    "triangles": 890
+  },
+  {
+    "id": "MY-305",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "86_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      -2.09477,
+      0.42706,
+      0.7088
+    ],
+    "size": [
+      0.31137,
+      0.07424,
+      0.28788
+    ],
+    "triangles": 890
+  },
+  {
+    "id": "MY-306",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "87_alum_0",
+    "material": "alum",
+    "center": [
+      -2.15837,
+      0.41424,
+      -0.67854
+    ],
+    "size": [
+      0.13604,
+      0.01121,
+      0.14993
+    ],
+    "triangles": 881
+  },
+  {
+    "id": "MY-307",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "87_alum_0",
+    "material": "alum",
+    "center": [
+      -2.15838,
+      0.41424,
+      0.67855
+    ],
+    "size": [
+      0.13605,
+      0.01119,
+      0.14993
+    ],
+    "triangles": 881
+  },
+  {
+    "id": "MY-308",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "88_alum_0",
+    "material": "alum",
+    "center": [
+      -2.17039,
+      0.47428,
+      -0.38481
+    ],
+    "size": [
+      0.02818,
+      0.44011,
+      0.04497
+    ],
+    "triangles": 10
+  },
+  {
+    "id": "MY-309",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "88_alum_0",
+    "material": "alum",
+    "center": [
+      -2.17039,
+      0.47428,
+      0.38481
+    ],
+    "size": [
+      0.02818,
+      0.44011,
+      0.04497
+    ],
+    "triangles": 10
+  },
+  {
+    "id": "MY-310",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "88_alum_0",
+    "material": "alum",
+    "center": [
+      -2.17364,
+      0.47547,
+      0.0
+    ],
+    "size": [
+      0.0215,
+      0.43903,
+      0.72385
+    ],
+    "triangles": 504
+  },
+  {
+    "id": "MY-311",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "89_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      -2.17397,
+      0.41397,
+      -0.67852
+    ],
+    "size": [
+      0.09473,
+      0.00779,
+      0.13032
+    ],
+    "triangles": 509
+  },
+  {
+    "id": "MY-312",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "89_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      -2.17395,
+      0.41397,
+      0.67852
+    ],
+    "size": [
+      0.0947,
+      0.0078,
+      0.13032
+    ],
+    "triangles": 509
+  },
+  {
+    "id": "MY-313",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "90_black_0",
+    "material": "black",
+    "center": [
+      -2.20095,
+      0.3901,
+      0.0
+    ],
+    "size": [
+      0.14772,
+      0.28151,
+      0.92235
+    ],
+    "triangles": 357
+  },
+  {
+    "id": "MY-314",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "91_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.21038,
+      0.77435,
+      0.0
+    ],
+    "size": [
+      0.06081,
+      0.03299,
+      0.06778
+    ],
+    "triangles": 594
+  },
+  {
+    "id": "MY-315",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "91_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.17945,
+      0.7897,
+      -0.0
+    ],
+    "size": [
+      0.01221,
+      0.00892,
+      0.07432
+    ],
+    "triangles": 483
+  },
+  {
+    "id": "MY-316",
+    "category": "cabin",
+    "zh": "座舱构件",
+    "en": "Cabin component",
+    "source": "92_interior_0",
+    "material": "interior",
+    "center": [
+      -0.77352,
+      1.22731,
+      -2e-05
+    ],
+    "size": [
+      1.04068,
+      0.51124,
+      1.37658
+    ],
+    "triangles": 1977
+  },
+  {
+    "id": "MY-317",
+    "category": "glass",
+    "zh": "玻璃构件",
+    "en": "Glazing component",
+    "source": "93_glass_body_0",
+    "material": "glass_body",
+    "center": [
+      -0.77377,
+      1.22824,
+      -4e-05
+    ],
+    "size": [
+      1.04068,
+      0.51111,
+      1.37659
+    ],
+    "triangles": 1553
+  },
+  {
+    "id": "MY-318",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "94_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      1.95776,
+      0.99383,
+      -0.70606
+    ],
+    "size": [
+      0.23725,
+      0.12484,
+      0.09509
+    ],
+    "triangles": 700
+  },
+  {
+    "id": "MY-319",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "94_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      1.95773,
+      0.99383,
+      0.70601
+    ],
+    "size": [
+      0.23729,
+      0.12484,
+      0.09519
+    ],
+    "triangles": 699
+  },
+  {
+    "id": "MY-320",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "94_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      2.10335,
+      0.96803,
+      -0.63625
+    ],
+    "size": [
+      0.20802,
+      0.15942,
+      0.20618
+    ],
+    "triangles": 1149
+  },
+  {
+    "id": "MY-321",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "94_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      2.10336,
+      0.96803,
+      0.63631
+    ],
+    "size": [
+      0.20804,
+      0.15942,
+      0.20629
+    ],
+    "triangles": 1150
+  },
+  {
+    "id": "MY-322",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "94_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      2.2197,
+      0.96647,
+      -0.43725
+    ],
+    "size": [
+      0.14388,
+      0.15456,
+      0.24963
+    ],
+    "triangles": 1444
+  },
+  {
+    "id": "MY-323",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "94_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      2.21978,
+      0.96645,
+      0.43724
+    ],
+    "size": [
+      0.14381,
+      0.15458,
+      0.2496
+    ],
+    "triangles": 1443
+  },
+  {
+    "id": "MY-324",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "95_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      2.29983,
+      0.45127,
+      -0.3851
+    ],
+    "size": [
+      0.07845,
+      0.02422,
+      0.27419
+    ],
+    "triangles": 4128
+  },
+  {
+    "id": "MY-325",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "95_glass_lights_0",
+    "material": "glass_lights",
+    "center": [
+      2.29942,
+      0.45127,
+      0.38533
+    ],
+    "size": [
+      0.0796,
+      0.02422,
+      0.27462
+    ],
+    "triangles": 4128
+  },
+  {
+    "id": "MY-326",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "96_chrome_rear_lights_0",
+    "material": "chrome_rear_lights",
+    "center": [
+      2.12544,
+      0.96536,
+      -0.62853
+    ],
+    "size": [
+      0.15697,
+      0.13228,
+      0.17591
+    ],
+    "triangles": 12228
+  },
+  {
+    "id": "MY-327",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "96_chrome_rear_lights_0",
+    "material": "chrome_rear_lights",
+    "center": [
+      2.12544,
+      0.96537,
+      0.62852
+    ],
+    "size": [
+      0.15697,
+      0.13228,
+      0.1759
+    ],
+    "triangles": 12231
+  },
+  {
+    "id": "MY-328",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "96_chrome_rear_lights_0",
+    "material": "chrome_rear_lights",
+    "center": [
+      2.21315,
+      0.98296,
+      0.43968
+    ],
+    "size": [
+      0.14002,
+      0.09599,
+      0.22844
+    ],
+    "triangles": 8862
+  },
+  {
+    "id": "MY-329",
+    "category": "lights",
+    "zh": "灯组构件",
+    "en": "Lighting component",
+    "source": "96_chrome_rear_lights_0",
+    "material": "chrome_rear_lights",
+    "center": [
+      2.21315,
+      0.98297,
+      -0.43967
+    ],
+    "size": [
+      0.14001,
+      0.09599,
+      0.22844
+    ],
+    "triangles": 8861
+  },
+  {
+    "id": "MY-330",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "97_black_0",
+    "material": "black",
+    "center": [
+      -0.75064,
+      1.07523,
+      -0.86751
+    ],
+    "size": [
+      0.37176,
+      0.15206,
+      0.29413
+    ],
+    "triangles": 4111
+  },
+  {
+    "id": "MY-331",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "97_black_0",
+    "material": "black",
+    "center": [
+      -0.75074,
+      1.0752,
+      0.86749
+    ],
+    "size": [
+      0.37195,
+      0.15199,
+      0.29409
+    ],
+    "triangles": 4111
+  },
+  {
+    "id": "MY-332",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "99_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.09456,
+      0.42711,
+      -0.70873
+    ],
+    "size": [
+      0.31087,
+      0.07376,
+      0.28739
+    ],
+    "triangles": 1673
+  },
+  {
+    "id": "MY-333",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "99_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.09452,
+      0.42711,
+      0.70871
+    ],
+    "size": [
+      0.3108,
+      0.07376,
+      0.28744
+    ],
+    "triangles": 1672
+  },
+  {
+    "id": "MY-334",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "99_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.09459,
+      0.42644,
+      -0.78713
+    ],
+    "size": [
+      0.12203,
+      0.06268,
+      0.12237
+    ],
+    "triangles": 1597
+  },
+  {
+    "id": "MY-335",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "99_chrome_0",
+    "material": "chrome",
+    "center": [
+      -2.09463,
+      0.42643,
+      0.78711
+    ],
+    "size": [
+      0.12214,
+      0.06264,
+      0.12217
+    ],
+    "triangles": 1597
+  },
+  {
+    "id": "MY-336",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "100_chrome_0",
+    "material": "chrome",
+    "center": [
+      -1.86446,
+      0.84279,
+      -0.69891
+    ],
+    "size": [
+      0.29912,
+      0.09203,
+      0.14811
+    ],
+    "triangles": 10958
+  },
+  {
+    "id": "MY-337",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "100_chrome_0",
+    "material": "chrome",
+    "center": [
+      -1.86446,
+      0.84286,
+      0.69901
+    ],
+    "size": [
+      0.29912,
+      0.09189,
+      0.14792
+    ],
+    "triangles": 10959
+  },
+  {
+    "id": "MY-338",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "101_fenders_0",
+    "material": "fenders",
+    "center": [
+      -2.06151,
+      0.16054,
+      -0.72167
+    ],
+    "size": [
+      0.27668,
+      0.0484,
+      0.27807
+    ],
+    "triangles": 1004
+  },
+  {
+    "id": "MY-339",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "101_fenders_0",
+    "material": "fenders",
+    "center": [
+      -2.0615,
+      0.16051,
+      0.72162
+    ],
+    "size": [
+      0.27666,
+      0.04842,
+      0.27816
+    ],
+    "triangles": 1005
+  },
+  {
+    "id": "MY-340",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "101_fenders_0",
+    "material": "fenders",
+    "center": [
+      -1.46379,
+      0.45695,
+      -0.76247
+    ],
+    "size": [
+      0.9165,
+      0.64882,
+      0.3412
+    ],
+    "triangles": 3112
+  },
+  {
+    "id": "MY-341",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "101_fenders_0",
+    "material": "fenders",
+    "center": [
+      -1.4638,
+      0.45713,
+      0.76247
+    ],
+    "size": [
+      0.91649,
+      0.64917,
+      0.3412
+    ],
+    "triangles": 3113
+  },
+  {
+    "id": "MY-342",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "101_fenders_0",
+    "material": "fenders",
+    "center": [
+      -0.02422,
+      0.18829,
+      -0.80931
+    ],
+    "size": [
+      2.04332,
+      0.13306,
+      0.1648
+    ],
+    "triangles": 747
+  },
+  {
+    "id": "MY-343",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "101_fenders_0",
+    "material": "fenders",
+    "center": [
+      -0.024,
+      0.18828,
+      0.80927
+    ],
+    "size": [
+      2.04375,
+      0.13303,
+      0.16492
+    ],
+    "triangles": 748
+  },
+  {
+    "id": "MY-344",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "101_fenders_0",
+    "material": "fenders",
+    "center": [
+      1.43039,
+      0.518,
+      -0.88462
+    ],
+    "size": [
+      0.94648,
+      0.52496,
+      0.07481
+    ],
+    "triangles": 2427
+  },
+  {
+    "id": "MY-345",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "101_fenders_0",
+    "material": "fenders",
+    "center": [
+      1.43037,
+      0.51811,
+      0.88463
+    ],
+    "size": [
+      0.94636,
+      0.52517,
+      0.07482
+    ],
+    "triangles": 2428
+  },
+  {
+    "id": "MY-346",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "101_fenders_0",
+    "material": "fenders",
+    "center": [
+      2.11131,
+      0.33923,
+      -3e-05
+    ],
+    "size": [
+      0.52824,
+      0.30386,
+      1.74218
+    ],
+    "triangles": 8821
+  },
+  {
+    "id": "MY-347",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "102_metal_0",
+    "material": "metal",
+    "center": [
+      0.35391,
+      1.26104,
+      -0.62472
+    ],
+    "size": [
+      2.55648,
+      0.47619,
+      0.21366
+    ],
+    "triangles": 2744
+  },
+  {
+    "id": "MY-348",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "102_metal_0",
+    "material": "metal",
+    "center": [
+      0.35412,
+      1.26115,
+      0.62596
+    ],
+    "size": [
+      2.55675,
+      0.47597,
+      0.21166
+    ],
+    "triangles": 2722
+  },
+  {
+    "id": "MY-349",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "102_metal_0",
+    "material": "metal",
+    "center": [
+      -0.23643,
+      1.04184,
+      -0.73958
+    ],
+    "size": [
+      1.02532,
+      0.06694,
+      0.03479
+    ],
+    "triangles": 715
+  },
+  {
+    "id": "MY-350",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "102_metal_0",
+    "material": "metal",
+    "center": [
+      -0.2365,
+      1.04199,
+      0.73958
+    ],
+    "size": [
+      1.02517,
+      0.06731,
+      0.03479
+    ],
+    "triangles": 743
+  },
+  {
+    "id": "MY-351",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "102_metal_0",
+    "material": "metal",
+    "center": [
+      0.76362,
+      1.09609,
+      -0.7022
+    ],
+    "size": [
+      0.97692,
+      0.08096,
+      0.10823
+    ],
+    "triangles": 857
+  },
+  {
+    "id": "MY-352",
+    "category": "body",
+    "zh": "车身构件",
+    "en": "Body component",
+    "source": "102_metal_0",
+    "material": "metal",
+    "center": [
+      0.76375,
+      1.09602,
+      0.70207
+    ],
+    "size": [
+      0.97723,
+      0.08106,
+      0.10801
+    ],
+    "triangles": 711
+  },
+  {
+    "id": "MY-353",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "98_body_0",
+    "material": "body",
+    "center": [
+      -0.33928,
+      0.64143,
+      -0.82339
+    ],
+    "size": [
+      1.22274,
+      0.8274,
+      0.16758
+    ],
+    "triangles": 2589
+  },
+  {
+    "id": "MY-354",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "98_body_0",
+    "material": "body",
+    "center": [
+      -0.33928,
+      0.64141,
+      0.82356
+    ],
+    "size": [
+      1.22276,
+      0.82742,
+      0.1675
+    ],
+    "triangles": 2588
+  },
+  {
+    "id": "MY-355",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "98_body_0",
+    "material": "body",
+    "center": [
+      0.76889,
+      0.68211,
+      -0.79354
+    ],
+    "size": [
+      1.08025,
+      0.87469,
+      0.25231
+    ],
+    "triangles": 3379
+  },
+  {
+    "id": "MY-356",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "98_body_0",
+    "material": "body",
+    "center": [
+      0.76891,
+      0.6821,
+      0.79352
+    ],
+    "size": [
+      1.08037,
+      0.87466,
+      0.25231
+    ],
+    "triangles": 3379
+  },
+  {
+    "id": "MY-357",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "103_body_0",
+    "material": "body",
+    "center": [
+      -2.03505,
+      0.46665,
+      1e-05
+    ],
+    "size": [
+      0.68004,
+      0.5832,
+      1.84241
+    ],
+    "triangles": 11190
+  },
+  {
+    "id": "MY-358",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "103_body_0",
+    "material": "body",
+    "center": [
+      -1.72343,
+      0.87044,
+      -6e-05
+    ],
+    "size": [
+      1.11482,
+      0.27502,
+      1.3464
+    ],
+    "triangles": 2294
+  },
+  {
+    "id": "MY-359",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "103_body_0",
+    "material": "body",
+    "center": [
+      -1.53552,
+      0.63558,
+      -0.66025
+    ],
+    "size": [
+      1.25183,
+      0.81886,
+      0.52404
+    ],
+    "triangles": 4738
+  },
+  {
+    "id": "MY-360",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "103_body_0",
+    "material": "body",
+    "center": [
+      -1.53552,
+      0.6356,
+      0.66024
+    ],
+    "size": [
+      1.25187,
+      0.8189,
+      0.52402
+    ],
+    "triangles": 4738
+  },
+  {
+    "id": "MY-361",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "103_body_0",
+    "material": "body",
+    "center": [
+      0.14983,
+      1.28286,
+      -0.60272
+    ],
+    "size": [
+      2.39288,
+      0.52076,
+      0.2576
+    ],
+    "triangles": 1811
+  },
+  {
+    "id": "MY-362",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "103_body_0",
+    "material": "body",
+    "center": [
+      0.14987,
+      1.28283,
+      0.60276
+    ],
+    "size": [
+      2.39282,
+      0.52083,
+      0.25759
+    ],
+    "triangles": 1812
+  },
+  {
+    "id": "MY-363",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "103_body_0",
+    "material": "body",
+    "center": [
+      1.66206,
+      0.95558,
+      -0.71963
+    ],
+    "size": [
+      0.85671,
+      0.6321,
+      0.40027
+    ],
+    "triangles": 2646
+  },
+  {
+    "id": "MY-364",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "103_body_0",
+    "material": "body",
+    "center": [
+      1.66209,
+      0.95556,
+      0.71964
+    ],
+    "size": [
+      0.85668,
+      0.63197,
+      0.40028
+    ],
+    "triangles": 2646
+  },
+  {
+    "id": "MY-365",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "103_body_0",
+    "material": "body",
+    "center": [
+      1.84894,
+      1.16898,
+      9e-05
+    ],
+    "size": [
+      1.01077,
+      0.48225,
+      1.32159
+    ],
+    "triangles": 4390
+  },
+  {
+    "id": "MY-366",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "103_body_0",
+    "material": "body",
+    "center": [
+      2.05764,
+      0.59478,
+      -2e-05
+    ],
+    "size": [
+      0.61735,
+      0.5981,
+      1.80109
+    ],
+    "triangles": 5321
+  },
+  {
+    "id": "MY-367",
+    "category": "body",
+    "zh": "车身面板",
+    "en": "Body panel",
+    "source": "103_body_0",
+    "material": "body",
+    "center": [
+      2.28448,
+      0.74555,
+      -4e-05
+    ],
+    "size": [
+      0.16416,
+      0.35107,
+      1.06149
+    ],
+    "triangles": 2037
+  },
+  {
+    "id": "MY-368",
+    "category": "wheels",
+    "zh": "轮辋构件",
+    "en": "Wheel rim",
+    "source": "26_wheels_0",
+    "material": "wheels",
+    "center": [
+      -1.46518,
+      0.3689,
+      -0.77208
+    ],
+    "size": [
+      0.57316,
+      0.57318,
+      0.28673
+    ],
+    "triangles": 17852
+  },
+  {
+    "id": "MY-369",
+    "category": "wheels",
+    "zh": "轮辋构件",
+    "en": "Wheel rim",
+    "source": "26_wheels_0",
+    "material": "wheels",
+    "center": [
+      -1.46643,
+      0.36304,
+      -0.8695
+    ],
+    "size": [
+      0.22075,
+      0.21438,
+      0.03214
+    ],
+    "triangles": 4840
+  },
+  {
+    "id": "MY-370",
+    "category": "wheels",
+    "zh": "轮辋构件",
+    "en": "Wheel rim",
+    "source": "29_wheels_0",
+    "material": "wheels",
+    "center": [
+      1.416,
+      0.36889,
+      -0.77208
+    ],
+    "size": [
+      0.57316,
+      0.57316,
+      0.28673
+    ],
+    "triangles": 17852
+  },
+  {
+    "id": "MY-371",
+    "category": "wheels",
+    "zh": "轮辋构件",
+    "en": "Wheel rim",
+    "source": "29_wheels_0",
+    "material": "wheels",
+    "center": [
+      1.41475,
+      0.36304,
+      -0.8695
+    ],
+    "size": [
+      0.22075,
+      0.21438,
+      0.03214
+    ],
+    "triangles": 4840
+  },
+  {
+    "id": "MY-372",
+    "category": "wheels",
+    "zh": "轮辋构件",
+    "en": "Wheel rim",
+    "source": "27_wheels_0",
+    "material": "wheels",
+    "center": [
+      -1.46518,
+      0.36889,
+      0.77207
+    ],
+    "size": [
+      0.57316,
+      0.57317,
+      0.28672
+    ],
+    "triangles": 17848
+  },
+  {
+    "id": "MY-373",
+    "category": "wheels",
+    "zh": "轮辋构件",
+    "en": "Wheel rim",
+    "source": "27_wheels_0",
+    "material": "wheels",
+    "center": [
+      -1.46652,
+      0.36289,
+      0.86951
+    ],
+    "size": [
+      0.22107,
+      0.21413,
+      0.03212
+    ],
+    "triangles": 4841
+  },
+  {
+    "id": "MY-374",
+    "category": "wheels",
+    "zh": "轮辋构件",
+    "en": "Wheel rim",
+    "source": "28_wheels_0",
+    "material": "wheels",
+    "center": [
+      1.416,
+      0.36889,
+      0.77208
+    ],
+    "size": [
+      0.57316,
+      0.57316,
+      0.28673
+    ],
+    "triangles": 17847
+  },
+  {
+    "id": "MY-375",
+    "category": "wheels",
+    "zh": "轮辋构件",
+    "en": "Wheel rim",
+    "source": "28_wheels_0",
+    "material": "wheels",
+    "center": [
+      1.41466,
+      0.36291,
+      0.86949
+    ],
+    "size": [
+      0.22107,
+      0.21417,
+      0.03216
+    ],
+    "triangles": 4842
+  },
+  {
+    "id": "MY-376",
+    "category": "wheels",
+    "zh": "制动盘构件",
+    "en": "Brake disc",
+    "source": "20_brakedsk_0",
+    "material": "brakedsk",
+    "center": [
+      -1.46518,
+      0.36798,
+      0.79904
+    ],
+    "size": [
+      0.43873,
+      0.44055,
+      0.00808
+    ],
+    "triangles": 4300
+  },
+  {
+    "id": "MY-377",
+    "category": "wheels",
+    "zh": "制动盘构件",
+    "en": "Brake disc",
+    "source": "06_brakedsk_0",
+    "material": "brakedsk",
+    "center": [
+      1.416,
+      0.36901,
+      0.80244
+    ],
+    "size": [
+      0.36936,
+      0.36939,
+      0.03676
+    ],
+    "triangles": 5483
+  },
+  {
+    "id": "MY-378",
+    "category": "wheels",
+    "zh": "制动盘构件",
+    "en": "Brake disc",
+    "source": "07_brakedsk_0",
+    "material": "brakedsk",
+    "center": [
+      1.416,
+      0.36898,
+      -0.80244
+    ],
+    "size": [
+      0.36983,
+      0.36983,
+      0.03676
+    ],
+    "triangles": 1370
+  },
+  {
+    "id": "MY-379",
+    "category": "wheels",
+    "zh": "制动盘构件",
+    "en": "Brake disc",
+    "source": "21_brakedsk_0",
+    "material": "brakedsk",
+    "center": [
+      -1.4649,
+      0.36862,
+      -0.79937
+    ],
+    "size": [
+      0.43938,
+      0.43938,
+      0.00668
+    ],
+    "triangles": 4300
+  },
+  {
+    "id": "MY-380",
+    "category": "wheels",
+    "zh": "轮胎",
+    "en": "Tire",
+    "source": "31_tires_0",
+    "material": "tires",
+    "center": [
+      1.41596,
+      0.36892,
+      0.77275
+    ],
+    "size": [
+      0.73774,
+      0.73782,
+      0.27491
+    ],
+    "triangles": 29513
+  },
+  {
+    "id": "MY-381",
+    "category": "wheels",
+    "zh": "轮胎",
+    "en": "Tire",
+    "source": "31_tires_0",
+    "material": "tires",
+    "center": [
+      1.41593,
+      0.36897,
+      0.64344
+    ],
+    "size": [
+      0.68017,
+      0.6803,
+      0.02768
+    ],
+    "triangles": 4870
+  },
+  {
+    "id": "MY-382",
+    "category": "wheels",
+    "zh": "轮胎",
+    "en": "Tire",
+    "source": "31_tires_0",
+    "material": "tires",
+    "center": [
+      1.41599,
+      0.36898,
+      0.90213
+    ],
+    "size": [
+      0.6803,
+      0.68021,
+      0.02762
+    ],
+    "triangles": 4869
+  },
+  {
+    "id": "MY-383",
+    "category": "wheels",
+    "zh": "轮胎",
+    "en": "Tire",
+    "source": "30_tires_0",
+    "material": "tires",
+    "center": [
+      -1.46521,
+      0.36884,
+      0.77266
+    ],
+    "size": [
+      0.73774,
+      0.73782,
+      0.27494
+    ],
+    "triangles": 29513
+  },
+  {
+    "id": "MY-384",
+    "category": "wheels",
+    "zh": "轮胎",
+    "en": "Tire",
+    "source": "30_tires_0",
+    "material": "tires",
+    "center": [
+      -1.46524,
+      0.36889,
+      0.64269
+    ],
+    "size": [
+      0.68017,
+      0.6803,
+      0.02896
+    ],
+    "triangles": 4870
+  },
+  {
+    "id": "MY-385",
+    "category": "wheels",
+    "zh": "轮胎",
+    "en": "Tire",
+    "source": "30_tires_0",
+    "material": "tires",
+    "center": [
+      -1.46518,
+      0.3689,
+      0.90219
+    ],
+    "size": [
+      0.6803,
+      0.68021,
+      0.02798
+    ],
+    "triangles": 4870
+  },
+  {
+    "id": "MY-386",
+    "category": "wheels",
+    "zh": "轮胎",
+    "en": "Tire",
+    "source": "33_tires_0",
+    "material": "tires",
+    "center": [
+      1.41596,
+      0.36892,
+      -0.77284
+    ],
+    "size": [
+      0.73774,
+      0.73782,
+      0.27491
+    ],
+    "triangles": 29513
+  },
+  {
+    "id": "MY-387",
+    "category": "wheels",
+    "zh": "轮胎",
+    "en": "Tire",
+    "source": "33_tires_0",
+    "material": "tires",
+    "center": [
+      1.41593,
+      0.36897,
+      -0.9028
+    ],
+    "size": [
+      0.68017,
+      0.6803,
+      0.02896
+    ],
+    "triangles": 4870
+  },
+  {
+    "id": "MY-388",
+    "category": "wheels",
+    "zh": "轮胎",
+    "en": "Tire",
+    "source": "33_tires_0",
+    "material": "tires",
+    "center": [
+      1.41599,
+      0.36898,
+      -0.64302
+    ],
+    "size": [
+      0.6803,
+      0.68021,
+      0.02852
+    ],
+    "triangles": 4869
+  },
+  {
+    "id": "MY-389",
+    "category": "wheels",
+    "zh": "轮胎",
+    "en": "Tire",
+    "source": "32_tires_0",
+    "material": "tires",
+    "center": [
+      -1.4652,
+      0.36886,
+      -0.77273
+    ],
+    "size": [
+      0.73772,
+      0.73786,
+      0.27491
+    ],
+    "triangles": 29512
+  },
+  {
+    "id": "MY-390",
+    "category": "wheels",
+    "zh": "轮胎",
+    "en": "Tire",
+    "source": "32_tires_0",
+    "material": "tires",
+    "center": [
+      -1.46524,
+      0.36889,
+      -0.90253
+    ],
+    "size": [
+      0.68017,
+      0.6803,
+      0.02864
+    ],
+    "triangles": 4888
+  },
+  {
+    "id": "MY-391",
+    "category": "wheels",
+    "zh": "轮胎",
+    "en": "Tire",
+    "source": "32_tires_0",
+    "material": "tires",
+    "center": [
+      -1.46517,
+      0.3689,
+      -0.64333
+    ],
+    "size": [
+      0.6803,
+      0.68021,
+      0.02769
+    ],
+    "triangles": 4869
+  },
+  {
+    "id": "MY-392",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "12_calipers_0",
+    "material": "calipers",
+    "center": [
+      -1.30492,
+      0.38474,
+      0.78059
+    ],
+    "size": [
+      0.12766,
+      0.37017,
+      0.15824
+    ],
+    "triangles": 9430
+  },
+  {
+    "id": "MY-393",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "00_calipers_0",
+    "material": "calipers",
+    "center": [
+      1.55403,
+      0.40539,
+      0.79434
+    ],
+    "size": [
+      0.13138,
+      0.26076,
+      0.11273
+    ],
+    "triangles": 2878
+  },
+  {
+    "id": "MY-394",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "00_calipers_0",
+    "material": "calipers",
+    "center": [
+      1.57246,
+      0.41023,
+      0.79434
+    ],
+    "size": [
+      0.11163,
+      0.176,
+      0.08603
+    ],
+    "triangles": 1858
+  },
+  {
+    "id": "MY-395",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "01_calipers_0",
+    "material": "calipers",
+    "center": [
+      1.55403,
+      0.40539,
+      -0.79434
+    ],
+    "size": [
+      0.13138,
+      0.26076,
+      0.11273
+    ],
+    "triangles": 2880
+  },
+  {
+    "id": "MY-396",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "01_calipers_0",
+    "material": "calipers",
+    "center": [
+      1.57246,
+      0.41023,
+      -0.79434
+    ],
+    "size": [
+      0.11163,
+      0.176,
+      0.08603
+    ],
+    "triangles": 1858
+  },
+  {
+    "id": "MY-397",
+    "category": "wheels",
+    "zh": "制动卡钳构件",
+    "en": "Brake caliper",
+    "source": "13_calipers_0",
+    "material": "calipers",
+    "center": [
+      -1.30491,
+      0.38484,
+      -0.7806
+    ],
+    "size": [
+      0.12768,
+      0.37002,
+      0.15823
+    ],
+    "triangles": 9433
+  }
+]
