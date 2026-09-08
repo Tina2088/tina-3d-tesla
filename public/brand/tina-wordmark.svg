@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174" height="36" viewBox="0 0 174 36" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">TINA</title>
+  <desc id="desc">Custom geometric TINA wordmark with a separated cobalt-blue cap on the I.</desc>
+  <g fill="#26364c">
+    <path d="M0 0H42L38 8H25V36H15V8H0Z"/>
+    <path d="M53 12H63V36H53Z"/>
+    <path d="M77 36V0H86L109 22V0H119V36H110L87 14V36Z"/>
+    <path fill-rule="evenodd" d="M132 36L147 0H158L174 36H163L160 28H145L142 36ZM148 20H157L152.5 8Z" clip-rule="evenodd"/>
+  </g>
+  <path fill="#365de4" d="M53 0H63V7H53Z"/>
+</svg>
