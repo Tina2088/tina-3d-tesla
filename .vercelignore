@@ -1,0 +1,12 @@
+.git
+.openai
+.next
+.vinext
+.wrangler
+node_modules
+dist
+dist-vercel
+outputs
+work
+*.tsbuildinfo
+.env*
