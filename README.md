@@ -4,6 +4,8 @@
 
 An independent bilingual Model Y 3D exploration studio built with React, TypeScript and Three.js. AI assisted development; no runtime AI service is needed.
 
+**在线体验 / Live:** [tina-3d-tesla.vercel.app](https://tina-3d-tesla.vercel.app/)
+
 **397 指可交互网格部件数量，不代表 397 个经过特斯拉官方核实的真实零件。** 模型网格可能与真实零件一对多或多对一。展开方向和排列仅供视觉观察，不代表真实装配关系、维修顺序或工程级 CAD 数据。
 
 ## 本地启动
